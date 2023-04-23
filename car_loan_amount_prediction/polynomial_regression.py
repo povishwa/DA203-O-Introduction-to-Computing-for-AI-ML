@@ -107,8 +107,11 @@ new_user_data = np.array([
 
 new_user_data = ct.transform(new_user_data)
 new_user_data_poly = poly_features.transform(new_user_data)
-new_user_loan_amount = poly_model.predict(new_user_data_poly)
+predicted_loan_amount = poly_model.predict(new_user_data_poly)
 
-# Printing the predicted loan amount
-print("Predicted loan amount for the new user:", new_user_loan_amount[0])
+predicted_loan_amount = poly_model.predict(new_user_data_poly)
 
+if predicted_loan_amount < 0:
+    predicted_loan_amount = 0
+
+print("Predicted loan amount for the new user:", predicted_loan_amount)
