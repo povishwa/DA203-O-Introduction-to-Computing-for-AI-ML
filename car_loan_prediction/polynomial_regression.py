@@ -37,6 +37,8 @@ print(X[0])
 
 print(y)
 
+print(y[0])
+
 """## Encoding categorical data"""
 
 # ['M' 59 'No' 1 'Graduate' 'Priv Sector' 2314491 219621 571 'Average' 1]
@@ -52,7 +54,7 @@ X = np.array(ct.fit_transform(X))
 
 print(X)
 
-print(X[10])
+print(X[0])
 
 """## Splitting the dataset into the Training set and Test set"""
 
@@ -99,11 +101,14 @@ plt.show()
 
 """## Demo"""
 
-res1 = poly_model.predict(poly_features.fit_transform([[ 1.28, -0.48,  0.42, -0.63, -1.09,  0.99,  0.,    1.,    1.,    0.,    1.,    0.,
-  0.,    0.,    0.,    1.,    0.,    0.,    1.,    0.,    0.,    0.,  ]]))
-#print(y_pred[0],"----",res1)
-print(res1)
-res2 = poly_model.predict(poly_features.fit_transform([[ 1.43,  0.43, -0.28, -0.95,  1.04,  0.99,  1.,    0.,    0.,    1.,    1.,    0.,
-  1.,    0.,    0.,    0.,    0.,    0.,    0.,    1.,    0.,    0.  ]]))
-#print(y_pred[10],"----",res2)
-print(res1)
+new_user_data = np.array([
+    ['M', 32, 'No', 1, 'Not Graduate', 'Agriculturist', 1159941, 0, 853, 'Excellent', 1]
+])
+
+new_user_data = ct.transform(new_user_data)
+new_user_data_poly = poly_features.transform(new_user_data)
+new_user_loan_amount = poly_model.predict(new_user_data_poly)
+
+# Printing the predicted loan amount
+print("Predicted loan amount for the new user:", new_user_loan_amount[0])
+
