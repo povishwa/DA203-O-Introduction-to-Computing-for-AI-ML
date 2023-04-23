@@ -1,0 +1,1001 @@
+Loan_ID,Gender,Age,Married,No_Of_Dependents,Edu_Qualification,Employment_Status,Applicant_Annual_Income,Co_Applicant_Annual_Income,Applicant_Credit_History,Credit_Rating,Existing_No_of_Loans,Loan_Amount_Availed,Car Purchased
+55769,M,59,No,1,Graduate,Priv Sector,2314491,219621,571,Average,1,23144.92,Hyundai i10
+13302,M,57,No,1,Graduate,Agriculturist,1074953,0,770,Excellent,1,107495.38,Hyundai i10
+23921,F,37,Yes,2,Not Graduate,Not-Employed,2232122,1095821,560,Average,1,223212.23,Tata Indigo
+86901,M,32,No,3,Not Graduate,Agriculturist,1598704,0,774,Excellent,0,559546.46,Mahinddra Bolero
+94393,F,61,Yes,2,Not Graduate,Agriculturist,1719946,0,759,Excellent,0,429986.55,Hyundai i10
+13751,M,48,No,3,Graduate,Not-Employed,1298654,1000253,693,Good,1,129865.43,Maruti Suzuki Swift
+75822,M,24,Yes,3,Graduate,Govt Sector,350247,81775,804,Excellent,1,87561.88,Hyundai i10
+36922,M,44,No,2,Not Graduate,Agriculturist,911350,0,798,Excellent,1,136702.6,Maruti Suzuki Desire
+62764,M,32,No,2,Not Graduate,Self-Employed,774555,860514,571,Average,0,116183.25,Tata Indigo
+50636,F,48,No,1,Not Graduate,Agriculturist,2158222,0,869,Excellent,0,647466.88,Toyota Etios
+71578,F,61,Yes,2,Graduate,Agriculturist,1529967,0,815,Excellent,1,152996.73,Toyota Etios
+94583,M,51,Yes,0,Graduate,Not-Employed,2359240,1121628,545,Poor,0,0.0,No Vehicle
+98396,F,53,Yes,2,Not Graduate,Self-Employed,752137,942960,692,Good,1,37606.86,Toyota Etios
+42201,M,31,Yes,2,Graduate,Govt Sector,907350,169671,841,Excellent,1,181470.09,Datsun Go
+86762,M,63,No,1,Not Graduate,Self-Employed,805837,963467,611,Average,1,8058.38,Maruti Suzuki Desire
+74089,M,39,No,1,Not Graduate,Agriculturist,1563295,0,810,Excellent,0,547153.28,Maruti Suzuki Swift
+53814,M,51,Yes,3,Graduate,Priv Sector,1850351,204469,603,Average,1,18503.51,Hyundai i10
+42594,M,41,Yes,1,Graduate,Not-Employed,2133412,1099760,597,Average,1,106670.63,Hyundai i10
+41495,F,24,Yes,2,Graduate,Agriculturist,2300149,0,756,Excellent,1,575037.31,Tata Sumo
+62082,M,30,Yes,0,Graduate,Agriculturist,439123,0,837,Excellent,1,109780.98,Tata Indica
+74392,M,33,No,2,Graduate,Priv Sector,1454966,180362,547,Poor,1,0.0,No Vehicle
+57700,F,27,Yes,3,Not Graduate,Self-Employed,719827,659885,702,Good,1,143965.55,Toyota Etios
+84419,F,40,No,2,Not Graduate,Not-Employed,2306528,957597,501,Poor,1,0.0,No Vehicle
+53571,F,22,No,2,Not Graduate,Self-Employed,873049,708485,705,Good,0,218262.5,Maruti Suzuki Swift
+22668,M,18,Yes,0,Graduate,Not-Employed,1765940,1012215,689,Good,0,441485.1,Hyundai i10
+68417,M,45,No,2,Not Graduate,Self-Employed,789826,1048773,640,Average,1,39491.33,Tata Indigo
+13057,F,19,No,3,Not Graduate,Not-Employed,1733609,1106121,571,Average,1,260041.43,Hyundai i10
+81083,F,18,No,2,Not Graduate,Self-Employed,957432,989811,553,Average,0,191486.58,Toyota Etios
+56356,M,56,No,1,Graduate,Not-Employed,1761813,795891,524,Poor,1,0.0,No Vehicle
+57325,M,45,Yes,3,Graduate,Priv Sector,1860208,149937,537,Poor,1,0.0,No Vehicle
+54285,M,48,No,0,Not Graduate,Agriculturist,1231127,0,827,Excellent,1,184669.06,Maruti Suzuki Desire
+65726,M,18,Yes,1,Not Graduate,Self-Employed,1028111,910574,629,Average,0,205622.37,Maruti Suzuki Swift
+63040,M,42,No,0,Not Graduate,Self-Employed,675431,670858,665,Good,0,101314.8,Maruti Suzuki Desire
+99178,F,36,No,3,Graduate,Software Engineer,5661700,2060812,729,Good,0,1132340.02,Hyundai Verna
+58774,F,49,Yes,0,Graduate,Govt Sector,3535640,217643,834,Excellent,1,530346.15,Maruti Suzuki Swift
+73373,F,35,No,3,Graduate,Not-Employed,1873815,960483,616,Average,0,281072.26,Maruti Suzuki Desire
+91251,F,29,Yes,3,Graduate,Not-Employed,2061222,1158147,734,Good,1,412244.47,Tata Indigo
+42121,M,38,Yes,2,Graduate,Software Engineer,5640179,3105367,607,Average,1,564017.91,Maruti Suzuki Swift
+31710,F,46,Yes,3,Not Graduate,Agriculturist,2901456,0,794,Excellent,1,435218.43,Maruti Suzuki Swift
+61362,F,39,Yes,1,Graduate,Software Engineer,5732452,2697711,694,Good,1,859867.89,Renault Duster
+45987,F,32,Yes,0,Not Graduate,Agriculturist,2375401,0,889,Excellent,0,831390.48,Maruti Suzuki Eeco
+59182,F,25,Yes,0,Graduate,Agriculturist,2248989,0,888,Excellent,0,899595.9,Mahinddra Bolero
+27228,M,27,Yes,1,Graduate,Agriculturist,1552081,0,802,Excellent,1,388020.35,Tata Sumo
+57141,F,53,Yes,0,Not Graduate,Not-Employed,2454333,1009984,504,Poor,0,0.0,No Vehicle
+70170,F,65,No,2,Not Graduate,Agriculturist,834700,0,893,Excellent,0,208675.16,Hyundai i10
+30638,M,19,Yes,0,Not Graduate,Self-Employed,986372,935351,626,Average,0,197274.47,Hyundai i10
+42761,M,29,Yes,0,Not Graduate,Self-Employed,1003101,672445,702,Good,1,200620.26,Maruti Suzuki Swift
+85852,F,23,No,2,Not Graduate,Self-Employed,961519,481458,506,Poor,1,0.0,No Vehicle
+10467,M,38,Yes,1,Not Graduate,Self-Employed,991951,732961,597,Average,0,148792.72,Hyundai i10
+81559,M,36,No,3,Graduate,Software Engineer,5734528,2137596,526,Poor,0,0.0,No Vehicle
+60143,F,40,No,3,Not Graduate,Not-Employed,2138119,1116509,705,Good,1,320717.94,Tata Indigo
+62218,F,58,No,0,Not Graduate,Agriculturist,1888680,0,804,Excellent,1,188868.08,Tata Indigo
+41710,F,23,No,1,Graduate,Priv Sector,523868,502146,748,Good,1,104773.69,Hyundai i10
+95694,M,47,Yes,1,Not Graduate,Agriculturist,1522616,0,881,Excellent,1,228392.41,Maruti Suzuki Swift
+37317,M,48,Yes,1,Graduate,Software Engineer,5578668,2650651,507,Poor,1,0.0,No Vehicle
+49536,F,60,No,0,Not Graduate,Not-Employed,2150980,900184,512,Poor,1,0.0,No Vehicle
+94017,M,37,Yes,1,Graduate,Priv Sector,2036566,176193,602,Average,0,305485.04,Hyundai i10
+63126,M,63,No,3,Not Graduate,Self-Employed,806568,707484,510,Poor,0,0.0,No Vehicle
+63110,M,26,No,2,Not Graduate,Not-Employed,1932116,1067798,696,Good,0,483029.16,Toyota Etios
+56638,M,35,Yes,3,Graduate,Govt Sector,744360,179660,809,Excellent,1,148872.14,Toyota Etios
+63340,M,34,No,1,Graduate,Priv Sector,1316151,191121,533,Poor,1,0.0,No Vehicle
+68382,F,42,No,0,Graduate,Govt Sector,3796785,196926,892,Excellent,0,1139035.59,Hyundai i10
+49901,M,54,Yes,0,Not Graduate,Not-Employed,1966125,1181709,658,Good,0,196612.56,Maruti Suzuki Swift
+94204,M,47,Yes,0,Graduate,Govt Sector,3571001,172695,859,Excellent,1,535650.28,Hyundai i10
+21780,M,31,No,1,Not Graduate,Agriculturist,1094167,0,838,Excellent,1,218833.49,Mahinddra Bolero
+26044,F,19,No,3,Graduate,Agriculturist,2169585,0,874,Excellent,0,867834.22,Mahinddra Bolero
+70155,M,36,No,3,Graduate,Govt Sector,3864490,156804,795,Excellent,1,772898.02,Maruti Suzuki Desire
+67140,M,65,Yes,1,Not Graduate,Agriculturist,1724682,0,888,Excellent,1,172468.23,Maruti Suzuki Swift
+74236,M,50,No,1,Graduate,Not-Employed,2090201,1027193,698,Good,0,313530.15,Maruti Suzuki Swift
+19290,F,56,Yes,0,Graduate,Agriculturist,2255779,0,805,Excellent,1,225577.95,Maruti Suzuki Desire
+80173,M,53,Yes,2,Graduate,Not-Employed,1715258,1124777,504,Poor,1,0.0,No Vehicle
+72423,M,35,Yes,3,Not Graduate,Self-Employed,803311,1081708,563,Average,1,80331.11,Maruti Suzuki Swift
+35823,M,64,Yes,3,Graduate,Software Engineer,5608303,2584765,536,Poor,0,0.0,No Vehicle
+90898,M,18,Yes,3,Graduate,Agriculturist,2175933,0,755,Excellent,0,870373.28,Maruti Suzuki Eeco
+12272,F,40,Yes,1,Not Graduate,Agriculturist,1771904,0,834,Excellent,1,354380.99,Maruti Suzuki Desire
+44456,M,60,Yes,1,Not Graduate,Self-Employed,754837,777693,670,Good,1,37741.88,Tata Indigo
+77469,M,51,No,0,Not Graduate,Self-Employed,857339,816980,517,Poor,0,0.0,No Vehicle
+89201,M,57,Yes,3,Graduate,Priv Sector,2111756,185130,615,Average,1,21117.56,Toyota Etios
+40283,F,56,Yes,1,Graduate,Not-Employed,2092076,1037739,512,Poor,0,0.0,No Vehicle
+13825,F,25,No,3,Graduate,Software Engineer,2375681,2509562,559,Average,0,475136.36,Hyundai i10
+66889,F,20,Yes,1,Graduate,Not-Employed,1970038,1182466,621,Average,1,295505.85,Hyundai i10
+72965,M,34,Yes,2,Not Graduate,Self-Employed,620296,758612,728,Good,1,93044.55,Maruti Suzuki Desire
+66930,M,38,No,3,Not Graduate,Self-Employed,954330,688377,543,Poor,1,0.0,No Vehicle
+41399,F,56,No,0,Not Graduate,Agriculturist,444147,0,868,Excellent,1,44414.7,Toyota Etios
+34938,F,19,Yes,2,Graduate,Agriculturist,1799509,0,802,Excellent,1,449877.27,Mahinddra Bolero
+73284,F,46,No,0,Not Graduate,Self-Employed,884065,909279,520,Poor,0,0.0,No Vehicle
+67136,F,27,No,2,Graduate,Not-Employed,1967122,1020254,588,Average,1,295068.39,Hyundai i10
+96786,F,41,Yes,1,Graduate,Software Engineer,5525288,2203089,605,Average,0,552528.85,Ford Ecosport
+59166,F,37,No,1,Graduate,Agriculturist,1517848,0,839,Excellent,1,303569.76,Maruti Suzuki Desire
+31355,F,22,No,0,Not Graduate,Agriculturist,1816764,0,874,Excellent,0,726705.63,Tata Indica
+35393,F,18,No,1,Not Graduate,Not-Employed,2509252,891551,561,Average,0,501850.5,Hyundai i10
+17357,M,45,No,1,Not Graduate,Self-Employed,748923,1228300,646,Average,0,74892.33,Hyundai i10
+93106,M,61,Yes,1,Not Graduate,Not-Employed,1854421,866557,698,Good,0,185442.19,Maruti Suzuki Desire
+58332,F,39,No,2,Graduate,Agriculturist,1311468,0,829,Excellent,0,459014.09,Maruti Suzuki Desire
+98802,F,40,Yes,0,Not Graduate,Agriculturist,1092066,0,818,Excellent,0,382223.45,Hyundai i10
+21771,F,23,No,3,Graduate,Agriculturist,1421688,0,863,Excellent,1,355422.09,Mahinddra Bolero
+68037,F,42,No,1,Graduate,Priv Sector,2103416,201525,612,Average,0,210341.62,Honda City
+91656,M,48,No,1,Not Graduate,Not-Employed,1840041,827299,538,Poor,1,0.0,No Vehicle
+13320,M,46,Yes,0,Graduate,Priv Sector,2207930,187522,706,Good,0,331189.54,Maruti Suzuki Swift
+53588,M,23,Yes,1,Not Graduate,Agriculturist,1734254,0,868,Excellent,1,433563.52,Maruti Suzuki Eeco
+57218,M,32,No,1,Not Graduate,Agriculturist,1159941,0,853,Excellent,1,231988.21,Tata Sumo
+43635,M,49,No,0,Graduate,Agriculturist,1337719,0,841,Excellent,1,200657.93,Toyota Etios
+10824,M,22,Yes,0,Not Graduate,Self-Employed,712741,697553,665,Good,1,142548.2,Hyundai i10
+71868,M,21,No,1,Not Graduate,Agriculturist,1110892,0,758,Excellent,1,277723.22,Mahinddra Bolero
+20810,M,45,No,3,Graduate,Govt Sector,3308428,148175,816,Excellent,0,992528.5,Maruti Suzuki Swift
+93353,M,19,No,1,Not Graduate,Self-Employed,722176,853408,583,Average,1,108326.53,Tata Indigo
+98218,F,26,Yes,0,Not Graduate,Agriculturist,1383823,0,807,Excellent,1,345955.8,Mahinddra Bolero
+25372,M,64,No,3,Not Graduate,Self-Employed,681852,793216,593,Average,1,6818.52,Tata Indigo
+48900,F,42,No,0,Graduate,Agriculturist,1173724,0,763,Excellent,1,176058.75,Tata Indigo
+94031,M,39,No,0,Graduate,Software Engineer,5158846,2419562,716,Good,0,1031769.38,Honda City
+36603,F,20,No,2,Graduate,Priv Sector,1106187,374317,619,Average,1,165928.15,Maruti Suzuki Alto
+83713,F,61,No,2,Not Graduate,Self-Employed,807145,664608,540,Poor,0,0.0,No Vehicle
+26562,F,32,Yes,3,Graduate,Agriculturist,1743237,0,867,Excellent,1,348647.42,Tata Indica
+64042,M,52,No,0,Graduate,Agriculturist,2159533,0,876,Excellent,0,539883.46,Maruti Suzuki Swift
+12589,M,60,Yes,2,Graduate,Govt Sector,3168908,186018,823,Excellent,1,316890.89,Toyota Etios
+48742,M,44,No,3,Graduate,Priv Sector,1993209,210085,536,Poor,0,0.0,No Vehicle
+94959,M,33,Yes,1,Not Graduate,Self-Employed,966228,849670,674,Good,1,144934.21,Toyota Etios
+17460,M,19,No,1,Not Graduate,Self-Employed,987186,866751,632,Average,0,197437.32,Maruti Suzuki Desire
+43264,M,58,No,0,Graduate,Priv Sector,2152385,182903,625,Average,1,21523.85,Maruti Suzuki Desire
+15438,F,33,No,2,Graduate,Priv Sector,1397868,198163,546,Poor,0,0.0,No Vehicle
+19869,M,28,No,2,Not Graduate,Self-Employed,912697,754307,533,Poor,1,0.0,No Vehicle
+62286,F,46,Yes,3,Not Graduate,Self-Employed,983122,859685,592,Average,1,49156.13,Tata Indigo
+29288,M,42,No,3,Graduate,Software Engineer,5773118,2828041,542,Poor,0,0.0,No Vehicle
+78856,M,31,No,3,Not Graduate,Not-Employed,2524489,1038003,580,Average,1,252449.0,Maruti Suzuki Swift
+33560,M,47,No,2,Not Graduate,Not-Employed,2338079,999491,735,Good,0,350711.94,Maruti Suzuki Swift
+58937,F,63,No,0,Graduate,Not-Employed,1670512,1127174,688,Good,1,83525.6,Maruti Suzuki Desire
+92634,M,32,No,0,Graduate,Govt Sector,619771,198367,881,Excellent,0,216919.99,Maruti Suzuki Swift
+19698,M,43,No,3,Graduate,Govt Sector,3550053,191793,832,Excellent,0,1065015.93,Toyota Etios
+71354,F,46,Yes,2,Graduate,Priv Sector,1524104,181859,671,Good,1,152410.48,Toyota Etios
+46465,M,41,Yes,2,Not Graduate,Not-Employed,1980652,934448,577,Average,1,99032.64,Toyota Etios
+59294,M,61,No,0,Graduate,Govt Sector,3252962,198776,861,Excellent,0,813240.58,Maruti Suzuki Desire
+56628,F,61,No,3,Graduate,Govt Sector,3628651,215151,800,Excellent,0,907162.85,Toyota Etios
+59986,F,58,No,3,Graduate,Agriculturist,761029,0,860,Excellent,0,190257.47,Hyundai i10
+76247,M,49,Yes,3,Graduate,Not-Employed,1784407,1176823,695,Good,0,267661.1,Maruti Suzuki Swift
+75682,M,24,Yes,2,Graduate,Govt Sector,597401,113903,759,Excellent,1,149350.34,Hyundai Santro
+67520,M,62,No,3,Not Graduate,Not-Employed,1919180,932702,502,Poor,0,0.0,No Vehicle
+75352,M,58,Yes,2,Not Graduate,Self-Employed,822131,521939,724,Good,1,41106.6,Tata Indigo
+80816,F,65,Yes,0,Graduate,Not-Employed,1913561,843470,660,Good,0,191356.12,Hyundai i10
+33105,F,63,No,3,Not Graduate,Agriculturist,2133549,0,861,Excellent,0,533387.38,Maruti Suzuki Swift
+91872,M,20,Yes,0,Graduate,Priv Sector,901416,265700,672,Good,0,225354.13,Maruti Suzuki Desire
+14593,F,38,No,1,Graduate,Agriculturist,1786469,0,808,Excellent,0,625264.43,Maruti Suzuki Swift
+46817,M,23,Yes,1,Graduate,Agriculturist,2012266,0,856,Excellent,0,804906.42,Maruti Suzuki Eeco
+95864,M,37,Yes,1,Graduate,Software Engineer,5531823,2315100,505,Poor,0,0.0,No Vehicle
+47650,M,50,No,0,Graduate,Govt Sector,3225654,193305,795,Excellent,1,483848.21,Honda City
+62519,F,42,No,3,Graduate,Agriculturist,1045926,0,753,Excellent,1,156888.92,Maruti Suzuki Swift
+22686,F,54,Yes,0,Not Graduate,Self-Employed,736039,725373,717,Good,1,36801.99,Hyundai i10
+50446,F,37,Yes,2,Not Graduate,Not-Employed,2380709,1199040,695,Good,1,357106.48,Tata Indigo
+50524,M,28,No,3,Not Graduate,Agriculturist,867352,0,780,Excellent,1,216838.16,Mahinddra Bolero
+49674,M,56,No,2,Not Graduate,Agriculturist,1900442,0,767,Excellent,0,475110.7,Toyota Etios
+62626,F,53,Yes,2,Not Graduate,Agriculturist,241483,0,848,Excellent,0,60370.95,Hyundai i10
+55512,M,57,Yes,3,Not Graduate,Agriculturist,2239003,0,755,Excellent,1,223900.34,Maruti Suzuki Swift
+56147,M,31,No,3,Not Graduate,Self-Employed,1010959,1049758,670,Good,0,202191.94,Tata Indigo
+36341,M,64,Yes,0,Graduate,Govt Sector,3206899,206959,825,Excellent,0,801724.94,Tata Indigo
+22698,F,57,Yes,1,Not Graduate,Self-Employed,843255,1061143,578,Average,1,8432.56,Maruti Suzuki Swift
+27199,F,22,No,1,Graduate,Govt Sector,603395,80573,795,Excellent,1,150848.79,Hyundai i10
+54769,F,34,Yes,3,Not Graduate,Agriculturist,1898743,0,797,Excellent,0,664560.37,Maruti Suzuki Eeco
+30482,F,42,Yes,0,Not Graduate,Self-Employed,818249,810875,536,Poor,0,0.0,No Vehicle
+38107,M,52,No,2,Graduate,Agriculturist,1010991,0,885,Excellent,1,101099.18,Maruti Suzuki Swift
+40101,M,20,Yes,3,Not Graduate,Agriculturist,471416,0,826,Excellent,1,117854.15,Tata Sumo
+50032,M,18,No,1,Not Graduate,Agriculturist,2115269,0,871,Excellent,0,846107.77,Tata Indica
+52255,M,30,No,0,Not Graduate,Not-Employed,2175006,1031555,684,Good,1,435001.21,Toyota Etios
+77517,F,50,No,0,Not Graduate,Self-Employed,437782,1103957,528,Poor,0,0.0,No Vehicle
+71405,F,35,Yes,2,Graduate,Priv Sector,1167649,225149,744,Good,1,175147.44,Maruti Suzuki Desire
+63504,F,57,No,0,Graduate,Software Engineer,5454958,2288271,653,Good,0,545495.88,Maruti Suzuki Swift
+29254,M,48,Yes,2,Not Graduate,Self-Employed,920196,987708,673,Good,0,138029.53,Tata Indigo
+33678,M,26,Yes,3,Not Graduate,Self-Employed,1116641,946533,568,Average,0,223328.31,Toyota Etios
+92743,F,58,No,2,Graduate,Priv Sector,1946995,198295,657,Good,1,97349.78,Maruti Suzuki Swift
+19015,F,41,Yes,3,Graduate,Agriculturist,1439653,0,899,Excellent,0,431896.1,Maruti Suzuki Desire
+89544,F,18,Yes,3,Not Graduate,Self-Employed,930387,934887,740,Good,0,232596.95,Maruti Suzuki Desire
+40658,M,30,Yes,2,Not Graduate,Self-Employed,672238,704790,710,Good,0,168059.58,Maruti Suzuki Desire
+26657,F,18,No,1,Graduate,Priv Sector,631784,295754,573,Average,1,94767.65,Hyundai i10
+88437,M,27,Yes,2,Not Graduate,Agriculturist,1533022,0,897,Excellent,0,613209.15,Mahinddra Bolero
+92456,M,50,Yes,3,Graduate,Not-Employed,1869711,1010395,511,Poor,1,0.0,No Vehicle
+82143,F,32,No,1,Not Graduate,Agriculturist,2263615,0,826,Excellent,1,452723.13,Maruti Suzuki Eeco
+29574,M,26,Yes,1,Not Graduate,Agriculturist,1678408,0,857,Excellent,1,419602.19,Mahinddra Bolero
+68000,F,22,No,3,Not Graduate,Self-Employed,678194,695296,510,Poor,1,0.0,No Vehicle
+82349,M,38,No,1,Graduate,Software Engineer,5468880,2230307,699,Good,1,820332.08,Hyundai Verna
+65743,F,53,Yes,0,Graduate,Priv Sector,2042972,231386,510,Poor,1,0.0,No Vehicle
+42860,M,63,Yes,1,Not Graduate,Self-Employed,837071,687294,706,Good,1,41853.56,Tata Indigo
+31035,M,40,No,3,Graduate,Priv Sector,1880850,211922,576,Average,1,188085.01,Maruti Suzuki Swift
+68350,M,32,No,2,Not Graduate,Agriculturist,1676717,0,787,Excellent,1,335343.57,Tata Sumo
+26498,M,34,Yes,1,Not Graduate,Not-Employed,2198935,1112097,553,Average,0,329840.32,Hyundai i10
+14099,F,23,No,2,Not Graduate,Self-Employed,1100086,741106,747,Good,0,275021.68,Toyota Etios
+96261,M,24,Yes,1,Graduate,Software Engineer,2588115,2348024,601,Average,0,517623.11,Maruti Suzuki Desire
+54749,M,22,Yes,2,Not Graduate,Agriculturist,649237,0,759,Excellent,0,259695.07,Mahinddra Bolero
+33521,F,64,Yes,3,Not Graduate,Not-Employed,1753458,974381,636,Average,0,87672.93,Toyota Etios
+16054,M,62,Yes,1,Graduate,Agriculturist,1868411,0,769,Excellent,0,467102.89,Hyundai i10
+94273,M,37,Yes,2,Not Graduate,Self-Employed,833088,1003878,607,Average,0,124963.34,Toyota Etios
+36841,M,55,No,1,Not Graduate,Not-Employed,1421963,1095932,510,Poor,1,0.0,No Vehicle
+88017,M,21,No,2,Not Graduate,Not-Employed,1828391,1084096,603,Average,1,274258.77,Maruti Suzuki Desire
+47224,M,24,Yes,3,Graduate,Not-Employed,1586863,956807,569,Average,1,238029.48,Hyundai i10
+18662,M,44,Yes,1,Graduate,Agriculturist,1198842,0,800,Excellent,1,179826.38,Maruti Suzuki Desire
+89068,M,49,Yes,1,Graduate,Software Engineer,5309077,2523101,561,Average,0,530907.77,Maruti Suzuki Swift
+18848,F,40,No,1,Not Graduate,Not-Employed,2042202,1222318,714,Good,1,306330.34,Hyundai i10
+98808,M,24,No,0,Not Graduate,Not-Employed,1978302,1042548,519,Poor,0,0.0,No Vehicle
+92583,F,24,Yes,3,Graduate,Not-Employed,2346979,870924,576,Average,1,352046.98,Hyundai i10
+68127,F,50,No,1,Graduate,Govt Sector,3416331,202281,884,Excellent,0,1024899.5,Tata Indigo
+27519,M,24,Yes,2,Not Graduate,Not-Employed,2322816,1139771,676,Good,0,580704.08,Tata Indigo
+50736,M,27,Yes,1,Not Graduate,Not-Employed,2210485,1085320,598,Average,0,442097.14,Maruti Suzuki Swift
+80523,M,49,Yes,3,Not Graduate,Self-Employed,889573,861086,659,Good,1,88957.32,Toyota Etios
+58672,M,58,No,1,Graduate,Priv Sector,2154679,231864,540,Poor,0,0.0,No Vehicle
+91074,M,36,Yes,2,Not Graduate,Not-Employed,2266923,1039774,635,Average,1,226692.36,Hyundai i10
+87530,F,29,No,2,Not Graduate,Not-Employed,1819361,971691,725,Good,1,363872.33,Toyota Etios
+96222,F,57,Yes,2,Not Graduate,Agriculturist,1617723,0,791,Excellent,1,161772.32,Maruti Suzuki Swift
+58371,M,56,No,1,Graduate,Priv Sector,1866190,156241,643,Average,1,18661.9,Toyota Etios
+59776,M,37,No,0,Graduate,Software Engineer,5447358,2050276,537,Poor,0,0.0,No Vehicle
+92165,F,36,Yes,1,Not Graduate,Not-Employed,1971810,985628,741,Good,0,394362.11,Hyundai i10
+90255,M,26,Yes,0,Graduate,Not-Employed,1694163,1016947,603,Average,0,338832.68,Maruti Suzuki Desire
+38807,M,50,No,2,Not Graduate,Agriculturist,844759,0,878,Excellent,0,253427.93,Hyundai i10
+26577,F,39,Yes,2,Not Graduate,Agriculturist,1663289,0,823,Excellent,1,332657.94,Maruti Suzuki Desire
+44741,F,21,No,0,Graduate,Govt Sector,468061,84956,770,Excellent,0,187224.67,Maruti Suzuki Alto
+75174,M,65,No,1,Not Graduate,Agriculturist,1071294,0,886,Excellent,1,107129.47,Tata Indigo
+67685,M,26,Yes,3,Not Graduate,Agriculturist,1418604,0,884,Excellent,1,354651.17,Tata Sumo
+52922,M,42,No,3,Graduate,Priv Sector,1773671,154450,648,Average,1,88683.57,Tata Indigo
+14037,F,20,No,1,Graduate,Govt Sector,563209,103947,878,Excellent,0,225283.79,Hyundai i10
+19357,F,32,No,0,Graduate,Govt Sector,980035,239522,769,Excellent,0,343012.54,Toyota Etios
+93693,F,32,No,3,Not Graduate,Agriculturist,1053983,0,769,Excellent,0,368894.06,Maruti Suzuki Eeco
+75208,M,27,Yes,0,Graduate,Agriculturist,2807354,0,867,Excellent,1,701838.64,Mahinddra Bolero
+26131,F,34,No,1,Graduate,Priv Sector,1413370,187011,525,Poor,0,0.0,No Vehicle
+41317,F,55,Yes,3,Not Graduate,Agriculturist,1935436,0,783,Excellent,0,483859.23,Toyota Etios
+12877,M,29,No,0,Not Graduate,Not-Employed,2225892,1171303,686,Good,0,556473.19,Maruti Suzuki Swift
+48110,M,41,Yes,3,Not Graduate,Self-Employed,767869,911756,698,Good,0,115180.48,Tata Indigo
+76929,F,54,No,0,Graduate,Not-Employed,1827505,921893,601,Average,0,91375.3,Maruti Suzuki Desire
+15407,M,45,No,2,Not Graduate,Not-Employed,1442901,1013338,581,Average,0,144290.14,Tata Indigo
+23166,M,43,No,3,Graduate,Agriculturist,1648481,0,798,Excellent,1,247272.26,Hyundai i10
+44323,F,23,No,2,Graduate,Software Engineer,2235034,2411662,725,Good,0,558758.72,Tata Indigo
+35276,M,18,Yes,0,Graduate,Software Engineer,2448249,2349874,678,Good,0,612062.49,Maruti Suzuki Swift
+39046,M,49,Yes,0,Not Graduate,Agriculturist,1676777,0,881,Excellent,1,251516.69,Maruti Suzuki Swift
+12382,F,36,No,2,Not Graduate,Self-Employed,849553,694888,596,Average,1,84955.39,Maruti Suzuki Desire
+92525,M,20,No,3,Graduate,Agriculturist,2287713,0,900,Excellent,1,571928.45,Mahinddra Bolero
+71524,F,36,Yes,3,Not Graduate,Agriculturist,1269356,0,778,Excellent,0,444274.72,Maruti Suzuki Desire
+40025,M,27,No,1,Not Graduate,Self-Employed,805061,694643,674,Good,0,201265.26,Hyundai i10
+78617,F,32,Yes,3,Graduate,Not-Employed,2536041,837573,678,Good,0,507208.4,Maruti Suzuki Swift
+73662,F,35,Yes,3,Not Graduate,Agriculturist,1029445,0,886,Excellent,1,205889.12,Hyundai i10
+87344,M,59,No,0,Not Graduate,Self-Employed,813841,1026552,580,Average,1,8138.42,Maruti Suzuki Desire
+34605,M,52,Yes,1,Not Graduate,Agriculturist,1055973,0,758,Excellent,0,263993.4,Maruti Suzuki Swift
+26439,M,61,No,0,Graduate,Govt Sector,3630564,207170,777,Excellent,0,907641.22,Toyota Etios
+53920,F,57,No,1,Not Graduate,Agriculturist,1480292,0,781,Excellent,0,370073.09,Maruti Suzuki Desire
+73621,F,55,No,0,Graduate,Not-Employed,1618146,1187996,628,Average,1,16181.47,Hyundai i10
+13970,M,42,Yes,2,Not Graduate,Agriculturist,1444751,0,794,Excellent,0,433425.32,Tata Indigo
+23742,F,58,Yes,1,Graduate,Not-Employed,2213561,1167992,658,Good,0,221356.2,Maruti Suzuki Swift
+87154,F,58,No,2,Graduate,Software Engineer,6036214,2595323,555,Average,1,60362.14,Tata Indigo
+40395,M,54,No,1,Graduate,Agriculturist,1176107,0,818,Excellent,1,117610.8,Maruti Suzuki Desire
+41163,M,19,No,1,Not Graduate,Self-Employed,724623,912255,700,Good,1,144924.73,Maruti Suzuki Swift
+52205,M,26,Yes,1,Graduate,Not-Employed,1906170,1096789,612,Average,0,381234.18,Maruti Suzuki Swift
+64881,F,46,Yes,3,Graduate,Agriculturist,2438257,0,817,Excellent,0,731477.3,Toyota Etios
+26863,F,22,Yes,1,Not Graduate,Not-Employed,1899633,1036075,696,Good,0,474908.34,Maruti Suzuki Swift
+47555,M,53,No,3,Graduate,Agriculturist,1277490,0,828,Excellent,1,127749.03,Maruti Suzuki Swift
+37934,F,54,Yes,1,Not Graduate,Self-Employed,843637,837891,655,Good,0,84363.72,Tata Indigo
+14478,F,48,No,0,Not Graduate,Agriculturist,2220591,0,827,Excellent,1,333088.75,Tata Indigo
+34647,M,33,Yes,2,Graduate,Not-Employed,1715489,959766,663,Good,0,343097.92,Toyota Etios
+95237,M,54,Yes,3,Not Graduate,Not-Employed,1943918,791821,745,Good,1,97195.92,Tata Indigo
+65066,F,33,No,1,Not Graduate,Self-Employed,863763,671128,720,Good,0,172752.61,Tata Indigo
+16586,F,58,Yes,3,Graduate,Govt Sector,3475551,188222,756,Excellent,0,868887.78,Toyota Etios
+60313,F,54,Yes,1,Graduate,Priv Sector,1962346,201905,511,Poor,0,0.0,No Vehicle
+77679,F,29,No,0,Not Graduate,Not-Employed,2282389,786733,706,Good,1,456477.89,Maruti Suzuki Swift
+33317,M,41,No,3,Not Graduate,Not-Employed,1869737,1006501,721,Good,1,186973.74,Maruti Suzuki Swift
+25524,M,29,No,1,Graduate,Software Engineer,2353030,2451836,699,Good,1,470606.12,Hyundai i10
+65749,M,39,No,1,Graduate,Priv Sector,1633182,188597,733,Good,0,326636.57,Toyota Etios
+81721,M,29,No,2,Graduate,Software Engineer,2222115,2799747,663,Good,1,444423.03,Maruti Suzuki Swift
+79147,M,65,Yes,2,Graduate,Priv Sector,2155917,232607,586,Average,1,21559.18,Tata Indigo
+43937,F,22,Yes,0,Graduate,Not-Employed,2296284,1092504,675,Good,1,459256.95,Maruti Suzuki Desire
+14405,M,59,Yes,3,Graduate,Agriculturist,2461616,0,854,Excellent,1,246161.64,Toyota Etios
+33755,M,37,Yes,2,Not Graduate,Self-Employed,914670,1003065,599,Average,0,137200.64,Maruti Suzuki Desire
+63626,F,58,Yes,2,Not Graduate,Self-Employed,724491,883449,558,Average,1,7244.92,Tata Indigo
+51028,M,49,Yes,1,Not Graduate,Not-Employed,2161076,975489,665,Good,1,216107.6,Hyundai i10
+25498,F,41,No,1,Graduate,Not-Employed,2181338,949741,557,Average,0,218133.87,Maruti Suzuki Desire
+46073,F,42,Yes,2,Graduate,Software Engineer,5141485,2505462,700,Good,1,514148.56,Hyundai i10
+85313,M,53,Yes,1,Not Graduate,Self-Employed,621687,905323,618,Average,0,31084.37,Maruti Suzuki Desire
+90324,F,21,No,0,Graduate,Not-Employed,1880391,950011,674,Good,0,470097.88,Maruti Suzuki Desire
+64264,M,42,Yes,2,Not Graduate,Self-Employed,776426,886911,708,Good,1,77642.64,Hyundai i10
+43353,F,57,Yes,3,Graduate,Govt Sector,3377833,211813,834,Excellent,0,844458.26,Maruti Suzuki Desire
+78028,F,45,No,2,Not Graduate,Not-Employed,2023500,952334,597,Average,1,101175.02,Maruti Suzuki Desire
+26264,F,23,Yes,2,Graduate,Agriculturist,1499787,0,881,Excellent,1,374946.82,Maruti Suzuki Eeco
+99030,M,59,Yes,2,Graduate,Not-Employed,2318922,1112484,663,Good,0,231892.26,Hyundai i10
+82007,F,43,Yes,1,Not Graduate,Self-Employed,725890,997859,590,Average,1,36294.5,Maruti Suzuki Desire
+78863,F,37,No,3,Not Graduate,Not-Employed,1987987,1083231,635,Average,1,198798.76,Hyundai i10
+28083,M,57,Yes,2,Graduate,Not-Employed,1572983,1034846,635,Average,0,78649.15,Maruti Suzuki Swift
+95895,M,37,No,0,Not Graduate,Self-Employed,1005673,827539,528,Poor,1,0.0,No Vehicle
+82897,M,33,No,0,Not Graduate,Self-Employed,1083398,1021350,561,Average,0,162509.73,Hyundai i10
+62376,F,41,Yes,2,Not Graduate,Self-Employed,1074685,751662,523,Poor,1,0.0,No Vehicle
+74756,F,47,Yes,0,Not Graduate,Not-Employed,1934351,904447,662,Good,0,290152.74,Maruti Suzuki Swift
+69437,M,24,No,2,Not Graduate,Agriculturist,1162589,0,751,Excellent,1,290647.37,Mahinddra Bolero
+92603,M,52,Yes,0,Graduate,Not-Employed,1659993,973980,694,Good,0,165999.39,Maruti Suzuki Desire
+14780,F,32,Yes,0,Not Graduate,Not-Employed,2148767,731900,591,Average,1,214876.72,Toyota Etios
+11345,F,48,No,0,Graduate,Not-Employed,1787433,885713,591,Average,1,89371.67,Tata Indigo
+38724,M,64,No,3,Graduate,Not-Employed,1971361,1001786,674,Good,0,197136.19,Hyundai i10
+94440,M,23,No,3,Not Graduate,Not-Employed,1765871,1082544,678,Good,1,353174.32,Maruti Suzuki Desire
+64591,M,32,Yes,0,Not Graduate,Not-Employed,1918062,911916,635,Average,0,287709.43,Maruti Suzuki Desire
+26009,F,64,No,3,Not Graduate,Agriculturist,1198040,0,821,Excellent,1,119804.09,Maruti Suzuki Swift
+63132,F,51,No,0,Not Graduate,Not-Employed,2207438,1099213,557,Average,1,22074.38,Tata Indigo
+47231,M,24,Yes,1,Not Graduate,Agriculturist,1320375,0,825,Excellent,1,330093.76,Tata Sumo
+56015,M,58,Yes,0,Graduate,Not-Employed,2209274,1220034,602,Average,1,22092.74,Maruti Suzuki Desire
+41677,F,30,Yes,2,Graduate,Agriculturist,2507230,0,847,Excellent,0,1002892.2,Maruti Suzuki Eeco
+78244,M,34,No,3,Graduate,Govt Sector,776761,211995,844,Excellent,0,271866.55,Tata Indigo
+36218,M,37,Yes,0,Not Graduate,Not-Employed,1553235,1048534,639,Average,0,232985.3,Toyota Etios
+20353,M,42,Yes,2,Graduate,Priv Sector,1947861,188608,549,Poor,0,0.0,No Vehicle
+51629,M,57,Yes,1,Not Graduate,Agriculturist,1913129,0,766,Excellent,1,191312.99,Hyundai i10
+40561,M,22,No,3,Not Graduate,Self-Employed,800207,699262,584,Average,1,120031.13,Toyota Etios
+82011,F,36,Yes,2,Graduate,Not-Employed,1969058,954279,696,Good,0,393811.65,Maruti Suzuki Desire
+55228,F,23,Yes,1,Not Graduate,Self-Employed,883541,863667,691,Good,1,176708.33,Hyundai i10
+15081,M,56,Yes,1,Graduate,Govt Sector,3687195,197871,797,Excellent,0,921798.78,Toyota Etios
+84364,M,28,No,1,Not Graduate,Not-Employed,2399489,941917,506,Poor,0,0.0,No Vehicle
+93929,M,60,Yes,0,Graduate,Agriculturist,1015359,0,832,Excellent,0,253839.79,Tata Indigo
+29141,F,37,Yes,1,Not Graduate,Agriculturist,1043400,0,880,Excellent,1,208680.07,Tata Indigo
+89373,M,24,No,1,Not Graduate,Not-Employed,2069338,987343,704,Good,0,517334.68,Hyundai i10
+22773,M,34,No,0,Not Graduate,Agriculturist,1169735,0,861,Excellent,0,409407.33,Maruti Suzuki Eeco
+54772,M,24,No,2,Graduate,Govt Sector,469976,114542,762,Excellent,1,117494.24,Datsun Go
+36288,F,40,Yes,3,Not Graduate,Self-Employed,616144,870092,566,Average,1,61614.42,Hyundai i10
+55006,F,22,No,0,Graduate,Agriculturist,1606701,0,844,Excellent,1,401675.36,Tata Sumo
+88676,M,25,No,3,Graduate,Govt Sector,357926,77850,824,Excellent,1,89481.68,Datsun Go
+15133,M,54,Yes,2,Graduate,Priv Sector,2134033,165824,659,Good,0,213403.38,Honda Amaze
+76071,F,26,Yes,0,Graduate,Priv Sector,697239,179714,515,Poor,0,0.0,No Vehicle
+73521,F,59,No,0,Not Graduate,Not-Employed,1978801,1142683,597,Average,1,19788.02,Tata Indigo
+78995,F,21,No,0,Not Graduate,Self-Employed,838617,1105613,747,Good,1,167723.43,Maruti Suzuki Desire
+37215,F,33,No,3,Graduate,Agriculturist,1395176,0,825,Excellent,1,279035.39,Tata Indica
+95524,M,37,No,2,Not Graduate,Not-Employed,1997351,894561,618,Average,1,199735.11,Tata Indigo
+66407,M,44,Yes,0,Graduate,Priv Sector,2343296,216557,548,Poor,1,0.0,No Vehicle
+95910,F,24,No,2,Graduate,Software Engineer,2414246,2507787,666,Good,0,603561.52,Hyundai i10
+93588,F,19,Yes,2,Not Graduate,Agriculturist,1834007,0,868,Excellent,0,733602.89,Maruti Suzuki Eeco
+87277,M,18,Yes,1,Not Graduate,Agriculturist,1635679,0,867,Excellent,1,408919.98,Tata Sumo
+78681,M,41,No,1,Graduate,Not-Employed,1619202,990188,541,Poor,1,0.0,No Vehicle
+32083,F,40,Yes,0,Not Graduate,Not-Employed,2338379,991105,501,Poor,0,0.0,No Vehicle
+88191,M,59,No,2,Graduate,Priv Sector,2273403,211441,534,Poor,1,0.0,No Vehicle
+28647,M,59,No,1,Not Graduate,Not-Employed,1905468,768124,512,Poor,0,0.0,No Vehicle
+85021,M,31,No,3,Graduate,Govt Sector,1233663,204635,887,Excellent,1,246732.78,Hyundai i10
+83586,F,39,Yes,0,Graduate,Not-Employed,2034776,1085040,625,Average,0,305216.53,Hyundai i10
+63258,M,52,Yes,0,Graduate,Govt Sector,3606625,215179,872,Excellent,1,360662.52,Maruti Suzuki Desire
+82467,F,35,No,2,Not Graduate,Not-Employed,2261529,870798,690,Good,1,339229.36,Toyota Etios
+78538,M,31,Yes,2,Graduate,Priv Sector,1801844,202100,580,Average,1,180184.5,Hyundai Santro
+63386,F,22,Yes,1,Graduate,Agriculturist,713268,0,811,Excellent,0,285307.49,Mahinddra Bolero
+21713,M,35,Yes,1,Graduate,Govt Sector,922604,201438,852,Excellent,1,184520.83,Hyundai i10
+63630,F,26,Yes,2,Graduate,Priv Sector,1301946,301488,518,Poor,1,0.0,No Vehicle
+41451,F,23,No,3,Not Graduate,Self-Employed,929785,848525,591,Average,1,139467.87,Maruti Suzuki Desire
+24986,M,64,No,1,Not Graduate,Agriculturist,1587726,0,784,Excellent,1,158772.66,Tata Indigo
+30688,F,56,Yes,2,Not Graduate,Agriculturist,1473680,0,843,Excellent,0,368420.21,Tata Indigo
+36144,F,30,Yes,1,Graduate,Priv Sector,463686,232644,635,Average,0,92737.22,Hyundai Santro
+58123,M,47,No,1,Not Graduate,Not-Employed,1624968,908508,515,Poor,0,0.0,No Vehicle
+48227,F,39,Yes,0,Not Graduate,Self-Employed,1148322,367764,501,Poor,1,0.0,No Vehicle
+99116,M,47,No,3,Graduate,Agriculturist,1484291,0,787,Excellent,1,222643.75,Hyundai i10
+46142,M,45,No,0,Not Graduate,Not-Employed,2177091,988932,643,Average,0,217709.15,Maruti Suzuki Desire
+18210,M,30,Yes,3,Graduate,Agriculturist,1879659,0,806,Excellent,1,469914.99,Maruti Suzuki Eeco
+99994,M,45,Yes,2,Not Graduate,Not-Employed,2275453,1039293,748,Good,1,227545.36,Hyundai i10
+71946,F,60,Yes,3,Graduate,Priv Sector,1603997,192749,630,Average,1,16039.97,Hyundai i10
+61713,M,59,Yes,3,Graduate,Software Engineer,5385242,2239349,700,Good,1,269262.12,Honda Amaze
+77025,M,47,Yes,3,Graduate,Govt Sector,3324428,175394,806,Excellent,1,498664.24,Honda Amaze
+70532,M,57,Yes,0,Not Graduate,Agriculturist,932810,0,784,Excellent,1,93281.07,Maruti Suzuki Desire
+79321,M,55,No,1,Graduate,Software Engineer,5498531,2554597,569,Average,0,274926.58,Maruti Suzuki Swift
+53275,M,52,Yes,3,Graduate,Priv Sector,2382928,193855,650,Good,1,119146.41,Maruti Suzuki Desire
+93248,M,32,Yes,2,Graduate,Priv Sector,1407821,217405,521,Poor,0,0.0,No Vehicle
+24223,M,52,No,2,Graduate,Not-Employed,2118757,1034180,571,Average,0,105937.88,Tata Indigo
+63817,M,52,No,3,Graduate,Agriculturist,1994703,0,770,Excellent,1,199470.34,Maruti Suzuki Desire
+58061,F,26,Yes,3,Graduate,Priv Sector,364021,237958,716,Good,1,72804.35,Hyundai Santro
+12760,F,42,No,0,Graduate,Software Engineer,5550013,2504470,544,Poor,1,0.0,No Vehicle
+74363,M,49,Yes,1,Not Graduate,Agriculturist,1140432,0,752,Excellent,1,171064.89,Tata Indigo
+85053,F,23,No,0,Not Graduate,Not-Employed,1822991,1044761,731,Good,0,455747.79,Toyota Etios
+75513,M,29,No,0,Not Graduate,Not-Employed,1628426,994465,535,Poor,0,0.0,No Vehicle
+68157,F,50,No,2,Not Graduate,Self-Employed,699169,733124,533,Poor,0,0.0,No Vehicle
+24540,F,40,Yes,3,Not Graduate,Not-Employed,1964010,1056546,661,Good,0,392802.03,Maruti Suzuki Swift
+95946,M,36,No,3,Not Graduate,Self-Employed,658361,888352,604,Average,1,65836.18,Maruti Suzuki Swift
+66566,F,19,Yes,1,Graduate,Agriculturist,1337490,0,889,Excellent,0,534996.06,Maruti Suzuki Eeco
+75028,M,20,No,1,Not Graduate,Agriculturist,1133023,0,775,Excellent,1,283255.95,Mahinddra Bolero
+56031,M,29,No,1,Graduate,Govt Sector,432106,77764,819,Excellent,0,172842.79,Maruti Suzuki Alto
+82663,M,55,No,0,Graduate,Agriculturist,1940348,0,793,Excellent,0,485087.0,Toyota Etios
+35294,F,41,Yes,3,Not Graduate,Agriculturist,480255,0,814,Excellent,0,144076.54,Toyota Etios
+75728,F,31,Yes,3,Not Graduate,Self-Employed,950103,724471,651,Good,0,190020.73,Hyundai i10
+50454,F,21,No,0,Graduate,Software Engineer,2785968,2519741,725,Good,1,557193.72,Maruti Suzuki Swift
+25241,M,24,No,1,Graduate,Govt Sector,566811,111223,893,Excellent,0,226724.62,Toyota Etios
+32426,F,35,No,0,Graduate,Priv Sector,1458167,187928,518,Poor,0,0.0,No Vehicle
+34543,F,41,Yes,0,Graduate,Priv Sector,2574827,164910,665,Good,0,386224.18,Hyundai i10
+89515,F,43,Yes,3,Graduate,Govt Sector,3413577,231420,827,Excellent,1,512036.64,Tata Indigo
+17142,F,37,Yes,0,Not Graduate,Agriculturist,1588839,0,840,Excellent,0,556093.86,Maruti Suzuki Desire
+73687,M,47,No,3,Not Graduate,Not-Employed,1860216,965420,688,Good,1,186021.66,Tata Indigo
+86403,F,61,Yes,2,Not Graduate,Self-Employed,963499,781879,742,Good,0,96349.91,Hyundai i10
+72422,M,20,No,3,Not Graduate,Not-Employed,1797800,993187,629,Average,1,269670.12,Maruti Suzuki Swift
+84817,F,33,No,3,Graduate,Agriculturist,699639,0,803,Excellent,1,139927.95,Maruti Suzuki Eeco
+66651,F,23,No,2,Not Graduate,Agriculturist,1940191,0,823,Excellent,0,776076.46,Tata Indica
+95186,F,40,No,1,Graduate,Not-Employed,2415245,915195,556,Average,0,362286.75,Tata Indigo
+63749,F,58,Yes,3,Not Graduate,Not-Employed,2055367,911033,596,Average,0,102768.37,Maruti Suzuki Desire
+32812,M,54,No,0,Graduate,Software Engineer,5646262,2862470,739,Good,0,564626.22,Hyundai i10
+32433,M,33,Yes,0,Not Graduate,Self-Employed,895040,974679,633,Average,1,89504.02,Toyota Etios
+23017,F,56,No,0,Not Graduate,Not-Employed,2100818,916017,723,Good,1,105040.93,Maruti Suzuki Swift
+13240,M,26,No,1,Graduate,Priv Sector,947298,-248926,636,Average,0,189459.7,Maruti Suzuki Alto
+89976,F,26,No,2,Not Graduate,Agriculturist,1121794,0,765,Excellent,0,448717.74,Maruti Suzuki Eeco
+90129,M,27,Yes,1,Graduate,Govt Sector,653025,91804,807,Excellent,0,261210.16,Maruti Suzuki Swift
+20850,M,55,No,2,Not Graduate,Self-Employed,1215083,945392,662,Good,0,121508.36,Toyota Etios
+80635,M,46,Yes,3,Not Graduate,Self-Employed,944334,891719,531,Poor,0,0.0,No Vehicle
+65639,F,45,Yes,3,Graduate,Agriculturist,1305261,0,836,Excellent,1,195789.2,Maruti Suzuki Swift
+67773,F,46,Yes,1,Not Graduate,Not-Employed,1614507,940052,502,Poor,1,0.0,No Vehicle
+96702,F,56,Yes,2,Not Graduate,Agriculturist,1866843,0,883,Excellent,0,466710.93,Hyundai i10
+78112,M,30,Yes,3,Graduate,Priv Sector,970180,-42428,622,Average,1,145527.12,Datsun Go
+77317,F,61,Yes,3,Graduate,Not-Employed,1895776,938768,618,Average,0,94788.83,Tata Indigo
+96253,M,41,No,2,Not Graduate,Not-Employed,2080234,1048117,585,Average,1,104011.7,Maruti Suzuki Swift
+18267,F,54,Yes,1,Graduate,Not-Employed,2096496,882199,722,Good,1,104824.83,Toyota Etios
+23514,F,25,No,3,Graduate,Priv Sector,933258,13116,741,Good,0,233314.72,Maruti Suzuki Swift
+79891,F,31,Yes,3,Graduate,Software Engineer,4641867,2517009,716,Good,0,928373.5,Toyota Etios
+76302,F,63,Yes,2,Not Graduate,Self-Employed,898736,873718,739,Good,1,44936.81,Maruti Suzuki Desire
+42532,F,25,No,1,Not Graduate,Self-Employed,839269,626785,622,Average,0,167853.92,Hyundai i10
+36255,M,48,Yes,3,Graduate,Agriculturist,1609037,0,859,Excellent,0,482711.22,Maruti Suzuki Swift
+48820,F,30,Yes,3,Graduate,Not-Employed,1914709,954418,500,Poor,0,0.0,No Vehicle
+40792,M,64,No,1,Not Graduate,Not-Employed,1639791,857914,593,Average,1,16397.92,Tata Indigo
+87242,F,31,No,1,Graduate,Software Engineer,4756890,2360297,613,Average,1,475689.05,Maruti Suzuki Desire
+26162,M,47,Yes,2,Not Graduate,Not-Employed,2345659,866493,736,Good,1,234565.92,Toyota Etios
+32124,F,35,No,0,Not Graduate,Not-Employed,2247639,1016229,686,Good,1,337145.91,Maruti Suzuki Swift
+17545,F,29,Yes,1,Not Graduate,Agriculturist,1648771,0,782,Excellent,1,412192.98,Tata Indica
+96784,F,53,No,3,Graduate,Software Engineer,5508724,2500454,679,Good,1,275436.22,Honda Amaze
+27040,M,38,No,3,Graduate,Priv Sector,2176102,196183,548,Poor,0,0.0,No Vehicle
+77982,M,29,Yes,2,Not Graduate,Self-Employed,839277,795072,575,Average,0,167855.57,Toyota Etios
+70060,F,64,No,3,Graduate,Not-Employed,2120744,1150512,593,Average,1,21207.45,Maruti Suzuki Swift
+22922,M,32,Yes,0,Graduate,Govt Sector,873555,201738,874,Excellent,1,174711.17,Datsun Go
+19943,F,50,Yes,2,Graduate,Software Engineer,5854028,2416443,608,Average,0,585402.83,Toyota Etios
+66754,F,59,Yes,1,Not Graduate,Agriculturist,1637193,0,895,Excellent,0,409298.39,Maruti Suzuki Desire
+43194,M,27,No,2,Not Graduate,Self-Employed,612847,1079210,535,Poor,0,0.0,No Vehicle
+90522,F,45,Yes,1,Not Graduate,Not-Employed,1885570,914756,589,Average,0,188557.1,Toyota Etios
+81376,F,65,No,3,Graduate,Priv Sector,1661887,201385,591,Average,0,83094.36,Tata Indigo
+18161,M,28,No,1,Graduate,Not-Employed,2113560,990431,631,Average,0,422712.02,Toyota Etios
+49446,F,59,Yes,3,Graduate,Not-Employed,1948461,951121,631,Average,0,97423.07,Maruti Suzuki Desire
+40814,M,56,No,3,Not Graduate,Not-Employed,1815018,1150894,621,Average,0,90750.91,Tata Indigo
+81520,F,43,Yes,2,Graduate,Govt Sector,3510393,209529,809,Excellent,1,526558.99,Maruti Suzuki Swift
+96088,F,63,Yes,1,Not Graduate,Not-Employed,2056298,925157,735,Good,0,205629.87,Maruti Suzuki Swift
+86627,M,33,Yes,1,Not Graduate,Self-Employed,882645,861579,553,Average,0,132396.85,Maruti Suzuki Desire
+61277,F,54,No,1,Graduate,Agriculturist,1807327,0,861,Excellent,1,180732.77,Hyundai i10
+50004,M,22,No,1,Not Graduate,Self-Employed,564565,881139,612,Average,0,112913.11,Tata Indigo
+12331,F,53,No,3,Graduate,Not-Employed,2062598,991338,584,Average,1,20625.99,Hyundai i10
+55804,M,37,Yes,2,Not Graduate,Self-Employed,982971,942035,564,Average,0,147445.69,Toyota Etios
+16773,M,38,No,3,Graduate,Agriculturist,1432542,0,807,Excellent,1,286508.6,Maruti Suzuki Swift
+15137,F,22,No,3,Graduate,Not-Employed,1621681,921821,656,Good,0,405420.35,Maruti Suzuki Swift
+84715,F,43,No,2,Not Graduate,Not-Employed,2029893,1050760,532,Poor,0,0.0,No Vehicle
+90118,F,64,Yes,0,Graduate,Not-Employed,2163713,813633,578,Average,1,21637.14,Toyota Etios
+19487,F,45,No,1,Graduate,Software Engineer,5631343,2734116,667,Good,0,844701.47,Honda City
+53154,M,43,Yes,1,Not Graduate,Agriculturist,1769873,0,858,Excellent,1,265481.04,Maruti Suzuki Desire
+71295,M,44,No,2,Graduate,Govt Sector,3795417,161761,847,Excellent,0,1138625.22,Maruti Suzuki Swift
+33994,M,63,Yes,1,Not Graduate,Not-Employed,1886704,906791,611,Average,0,94335.21,Hyundai i10
+80237,F,29,Yes,2,Not Graduate,Self-Employed,895202,920494,649,Average,1,134280.43,Maruti Suzuki Desire
+61090,F,60,Yes,3,Not Graduate,Agriculturist,1728052,0,846,Excellent,1,172805.26,Maruti Suzuki Swift
+37810,M,25,No,0,Not Graduate,Agriculturist,1130304,0,837,Excellent,1,282576.11,Mahinddra Bolero
+81389,F,54,Yes,2,Not Graduate,Self-Employed,854850,770526,642,Average,1,8548.51,Hyundai i10
+77809,F,51,Yes,0,Graduate,Not-Employed,1927079,1046970,544,Poor,1,0.0,No Vehicle
+30793,M,59,No,3,Graduate,Govt Sector,3328500,208637,888,Excellent,0,832125.2,Maruti Suzuki Desire
+75487,F,39,Yes,1,Graduate,Agriculturist,935008,0,854,Excellent,0,327252.96,Toyota Etios
+60852,M,31,No,3,Graduate,Agriculturist,2169727,0,825,Excellent,0,759404.53,Tata Indica
+40247,M,44,No,0,Graduate,Agriculturist,1259341,0,758,Excellent,0,377802.49,Hyundai i10
+15427,M,21,No,0,Not Graduate,Not-Employed,2431240,1040079,734,Good,1,486248.17,Hyundai i10
+92492,F,49,Yes,3,Graduate,Agriculturist,1286853,0,838,Excellent,0,386055.92,Maruti Suzuki Swift
+89807,F,49,Yes,3,Graduate,Priv Sector,1959175,224209,710,Good,1,195917.58,Maruti Suzuki Swift
+43067,F,43,No,3,Graduate,Agriculturist,1536496,0,870,Excellent,0,460948.94,Toyota Etios
+72864,F,65,No,1,Graduate,Not-Employed,1997367,1085533,630,Average,0,99868.38,Tata Indigo
+25343,F,32,No,3,Graduate,Agriculturist,1551887,0,854,Excellent,1,310377.42,Mahinddra Bolero
+11577,M,49,No,0,Not Graduate,Not-Employed,2234087,866918,586,Average,1,111704.38,Hyundai i10
+59784,F,23,No,2,Not Graduate,Not-Employed,1765767,880258,662,Good,1,353153.48,Tata Indigo
+12962,F,47,Yes,3,Graduate,Software Engineer,5663986,2688884,650,Good,1,566398.7,Hyundai i10
+22892,F,40,No,2,Graduate,Priv Sector,2173807,208143,685,Good,0,434761.5,Tata Indigo
+15427,F,48,No,3,Not Graduate,Agriculturist,2120734,0,823,Excellent,0,636220.45,Tata Indigo
+52298,M,29,Yes,2,Graduate,Not-Employed,2138689,1156136,697,Good,1,427737.97,Toyota Etios
+91997,M,30,Yes,1,Graduate,Priv Sector,623854,410670,738,Good,1,124770.84,Hyundai Santro
+63109,M,63,No,3,Graduate,Priv Sector,2010143,221736,509,Poor,1,0.0,No Vehicle
+48646,M,47,No,2,Not Graduate,Not-Employed,1786421,990563,748,Good,0,267963.22,Toyota Etios
+60954,M,24,Yes,3,Not Graduate,Self-Employed,1146370,1026798,668,Good,1,229274.13,Tata Indigo
+24689,F,22,No,2,Not Graduate,Agriculturist,566906,0,799,Excellent,0,226762.53,Maruti Suzuki Eeco
+48123,F,44,Yes,0,Graduate,Priv Sector,1740664,181869,654,Good,1,174066.5,Maruti Suzuki Swift
+50322,M,19,No,3,Not Graduate,Agriculturist,1372549,0,855,Excellent,0,549019.78,Mahinddra Bolero
+88393,F,26,No,3,Not Graduate,Agriculturist,2134797,0,848,Excellent,1,533699.36,Mahinddra Bolero
+60974,F,23,No,1,Not Graduate,Not-Employed,1778793,986104,511,Poor,0,0.0,No Vehicle
+39453,M,43,Yes,2,Not Graduate,Agriculturist,1423101,0,786,Excellent,1,213465.17,Tata Indigo
+81665,M,35,Yes,0,Not Graduate,Self-Employed,703973,573928,539,Poor,1,0.0,No Vehicle
+60662,F,56,No,0,Graduate,Software Engineer,5537760,2321861,724,Good,0,553776.08,Maruti Suzuki Swift
+12743,M,45,Yes,1,Graduate,Govt Sector,3583658,198892,803,Excellent,0,1075097.62,Tata Indigo
+58643,M,33,No,3,Graduate,Agriculturist,1130163,0,783,Excellent,0,395557.17,Maruti Suzuki Eeco
+65274,F,63,Yes,0,Graduate,Priv Sector,2305478,202525,613,Average,1,23054.78,Tata Indigo
+88519,F,25,No,3,Graduate,Software Engineer,2765374,2497968,696,Good,1,553074.82,Maruti Suzuki Swift
+42123,M,31,No,2,Graduate,Govt Sector,494755,213400,771,Excellent,1,98951.19,Hyundai Santro
+37453,M,18,No,0,Not Graduate,Agriculturist,1597131,0,756,Excellent,1,399283.0,Tata Indica
+80302,F,18,Yes,3,Not Graduate,Agriculturist,2212030,0,780,Excellent,0,884812.04,Tata Sumo
+52952,M,20,Yes,1,Not Graduate,Not-Employed,1888186,1014576,661,Good,0,472046.7,Maruti Suzuki Desire
+94923,F,45,No,0,Not Graduate,Self-Employed,846399,999287,561,Average,1,42320.0,Toyota Etios
+12472,M,62,Yes,2,Not Graduate,Not-Employed,2207182,789224,612,Average,0,110359.14,Toyota Etios
+18188,M,48,Yes,1,Not Graduate,Not-Employed,2023100,1031810,701,Good,1,202310.02,Hyundai i10
+91096,M,45,No,2,Not Graduate,Not-Employed,2234916,988083,674,Good,1,223491.6,Hyundai i10
+24098,M,21,No,3,Graduate,Not-Employed,1876138,742236,631,Average,1,281420.71,Hyundai i10
+54082,M,63,No,2,Not Graduate,Self-Employed,630080,764007,717,Good,1,31504.05,Maruti Suzuki Desire
+12801,F,41,No,0,Graduate,Priv Sector,1750183,215557,626,Average,0,175018.4,Hyundai i10
+71152,F,55,Yes,2,Not Graduate,Not-Employed,1688052,828124,586,Average,1,16880.53,Tata Indigo
+74468,M,62,No,2,Graduate,Agriculturist,1329182,0,831,Excellent,0,332295.73,Hyundai i10
+15874,M,37,Yes,0,Not Graduate,Not-Employed,2106352,915059,500,Poor,0,0.0,No Vehicle
+93936,F,49,Yes,3,Graduate,Govt Sector,3833993,194069,776,Excellent,0,1150197.96,Maruti Suzuki Desire
+85524,M,30,No,0,Graduate,Priv Sector,1199463,346928,642,Average,1,179919.53,Hyundai i10
+22150,M,48,Yes,1,Not Graduate,Self-Employed,979067,896592,729,Good,0,146860.11,Tata Indigo
+75673,F,55,No,2,Not Graduate,Self-Employed,776271,916184,710,Good,1,38813.55,Hyundai i10
+80327,M,36,Yes,2,Graduate,Govt Sector,3335486,197020,836,Excellent,1,667097.32,Maruti Suzuki Swift
+18071,F,60,No,0,Graduate,Govt Sector,3554002,191423,826,Excellent,0,888500.66,Hyundai i10
+77256,M,48,Yes,3,Graduate,Priv Sector,1757152,188245,526,Poor,0,0.0,No Vehicle
+15905,F,49,No,2,Not Graduate,Not-Employed,1835178,1044408,637,Average,1,91758.95,Toyota Etios
+17581,M,28,No,3,Graduate,Agriculturist,1997616,0,809,Excellent,0,799046.59,Tata Indica
+21145,M,29,No,0,Not Graduate,Not-Employed,2157963,1045797,594,Average,0,431592.77,Tata Indigo
+92276,F,22,Yes,1,Graduate,Agriculturist,1486210,0,779,Excellent,1,371552.53,Mahinddra Bolero
+78310,M,39,No,2,Graduate,Priv Sector,2021374,214823,537,Poor,1,0.0,No Vehicle
+52330,F,39,No,0,Not Graduate,Agriculturist,1458823,0,789,Excellent,0,510588.08,Tata Indigo
+88482,M,36,Yes,2,Not Graduate,Not-Employed,1879951,1056150,536,Poor,1,0.0,No Vehicle
+12754,F,32,Yes,0,Graduate,Software Engineer,4865863,2301718,550,Average,0,729879.55,Toyota Etios
+94855,F,39,Yes,3,Graduate,Not-Employed,1861636,1114464,559,Average,0,279245.41,Maruti Suzuki Desire
+73084,F,46,Yes,1,Graduate,Agriculturist,2094944,0,796,Excellent,0,628483.31,Maruti Suzuki Desire
+72569,F,33,No,0,Not Graduate,Agriculturist,1059378,0,839,Excellent,1,211875.61,Mahinddra Bolero
+34388,F,24,No,0,Graduate,Govt Sector,509775,77096,829,Excellent,1,127443.97,Hyundai i10
+51864,M,42,Yes,1,Not Graduate,Agriculturist,1288901,0,874,Excellent,1,193335.27,Hyundai i10
+49570,M,23,Yes,3,Not Graduate,Self-Employed,936496,889808,691,Good,1,187299.28,Toyota Etios
+21992,F,62,No,1,Not Graduate,Agriculturist,1639052,0,750,Excellent,1,163905.29,Maruti Suzuki Desire
+99392,M,33,No,3,Graduate,Agriculturist,966568,0,823,Excellent,0,338299.14,Tata Sumo
+25173,M,57,Yes,0,Graduate,Software Engineer,5622275,2281935,749,Good,1,281113.76,Hyundai i10
+40388,M,65,No,1,Not Graduate,Self-Employed,886846,704415,602,Average,0,44342.32,Toyota Etios
+74475,F,37,No,3,Graduate,Not-Employed,2132739,1129080,510,Poor,0,0.0,No Vehicle
+11712,F,25,No,3,Graduate,Software Engineer,2654025,2155136,564,Average,1,398103.86,Tata Indigo
+80759,M,28,Yes,0,Not Graduate,Agriculturist,2325981,0,803,Excellent,1,581495.28,Tata Sumo
+61044,F,57,Yes,1,Graduate,Not-Employed,2600619,784325,578,Average,1,26006.2,Maruti Suzuki Swift
+57008,F,46,No,2,Not Graduate,Self-Employed,786979,796882,629,Average,1,39348.97,Maruti Suzuki Desire
+22037,M,30,No,3,Graduate,Agriculturist,844971,0,856,Excellent,1,211242.84,Tata Indica
+25285,M,42,Yes,1,Not Graduate,Self-Employed,893589,762606,648,Average,1,44679.5,Hyundai i10
+57143,F,18,Yes,2,Graduate,Software Engineer,2222752,2573887,522,Poor,1,0.0,No Vehicle
+80638,M,59,No,0,Not Graduate,Agriculturist,1895873,0,853,Excellent,1,189587.38,Hyundai i10
+76187,F,53,Yes,1,Not Graduate,Self-Employed,839872,773119,578,Average,1,8398.73,Maruti Suzuki Desire
+66959,F,22,No,1,Not Graduate,Agriculturist,1050117,0,835,Excellent,0,420047.07,Maruti Suzuki Eeco
+56428,M,37,Yes,1,Not Graduate,Agriculturist,1815453,0,830,Excellent,1,363090.8,Toyota Etios
+72589,M,26,No,2,Graduate,Priv Sector,872260,13902,727,Good,1,174452.12,Hyundai i10
+73972,F,65,No,1,Not Graduate,Self-Employed,807942,1122949,660,Good,0,80794.23,Toyota Etios
+38858,F,60,No,1,Graduate,Not-Employed,1864583,1071799,688,Good,0,186458.33,Toyota Etios
+78540,F,55,Yes,3,Not Graduate,Self-Employed,928907,1005239,704,Good,0,92890.72,Toyota Etios
+14734,F,53,No,1,Graduate,Not-Employed,1926583,956557,668,Good,1,96329.16,Tata Indigo
+21130,M,37,Yes,1,Not Graduate,Self-Employed,775973,966261,689,Good,0,155194.66,Maruti Suzuki Desire
+62980,M,27,No,1,Not Graduate,Not-Employed,1408482,1006514,566,Average,1,211272.4,Tata Indigo
+95550,M,54,Yes,3,Not Graduate,Agriculturist,996236,0,769,Excellent,0,249059.1,Toyota Etios
+71441,F,38,No,1,Not Graduate,Self-Employed,863301,911531,564,Average,1,86330.1,Maruti Suzuki Swift
+68058,F,21,Yes,3,Graduate,Not-Employed,1725827,995136,690,Good,0,431456.75,Toyota Etios
+12243,M,24,No,0,Not Graduate,Agriculturist,1055758,0,778,Excellent,1,263939.72,Tata Sumo
+95481,M,64,Yes,0,Not Graduate,Agriculturist,1551625,0,810,Excellent,1,155162.57,Hyundai i10
+91619,F,64,No,3,Not Graduate,Not-Employed,2009386,838520,570,Average,0,100469.32,Hyundai i10
+64407,M,54,No,0,Not Graduate,Not-Employed,2361303,1092145,516,Poor,1,0.0,No Vehicle
+28412,F,48,No,0,Not Graduate,Agriculturist,2043774,0,782,Excellent,1,306566.17,Maruti Suzuki Desire
+96053,F,42,Yes,2,Not Graduate,Self-Employed,746307,982335,523,Poor,1,0.0,No Vehicle
+48517,M,26,Yes,1,Not Graduate,Self-Employed,707905,904220,517,Poor,0,0.0,No Vehicle
+50229,F,38,No,1,Not Graduate,Self-Employed,965483,644536,604,Average,0,144822.45,Hyundai i10
+62014,F,43,No,3,Graduate,Govt Sector,3739544,207229,790,Excellent,1,560931.74,Hyundai i10
+92353,F,23,Yes,3,Graduate,Priv Sector,1137171,569286,554,Average,1,170575.65,Hyundai i10
+79431,F,52,Yes,0,Graduate,Priv Sector,2020181,201250,563,Average,0,101009.09,Hyundai i10
+30784,F,18,No,2,Not Graduate,Agriculturist,1504945,0,853,Excellent,0,601978.2,Tata Indica
+35794,M,64,No,3,Not Graduate,Agriculturist,1659508,0,767,Excellent,0,414877.06,Maruti Suzuki Swift
+92608,M,35,Yes,2,Graduate,Agriculturist,1047026,0,893,Excellent,1,209405.25,Tata Indigo
+43648,F,65,No,2,Graduate,Govt Sector,3566140,198520,892,Excellent,0,891535.18,Toyota Etios
+17481,M,63,No,0,Not Graduate,Self-Employed,815628,1120853,610,Average,0,40781.4,Hyundai i10
+43323,F,48,Yes,2,Graduate,Agriculturist,1564241,0,805,Excellent,1,234636.21,Maruti Suzuki Desire
+15586,F,39,Yes,2,Not Graduate,Agriculturist,1683011,0,802,Excellent,1,336602.37,Tata Indigo
+95277,M,20,No,2,Graduate,Not-Employed,1830741,1045786,595,Average,1,274611.28,Hyundai i10
+26839,M,62,Yes,3,Graduate,Priv Sector,2068292,236508,659,Good,0,206829.29,Hyundai Verna
+92297,M,63,No,3,Graduate,Agriculturist,1351385,0,884,Excellent,0,337846.26,Maruti Suzuki Desire
+19759,F,32,No,2,Graduate,Govt Sector,892936,200978,767,Excellent,1,178587.35,Hyundai Santro
+65577,F,61,Yes,3,Graduate,Agriculturist,1078132,0,810,Excellent,1,107813.25,Maruti Suzuki Swift
+25890,M,51,No,3,Graduate,Agriculturist,1888301,0,812,Excellent,1,188830.19,Maruti Suzuki Desire
+97311,M,61,No,0,Graduate,Priv Sector,1895425,210986,634,Average,1,18954.25,Toyota Etios
+82483,M,18,No,3,Graduate,Software Engineer,2567832,2308917,618,Average,1,385174.87,Maruti Suzuki Desire
+16404,F,46,No,1,Graduate,Not-Employed,2060518,1004407,559,Average,1,103025.91,Hyundai i10
+58140,F,42,Yes,1,Not Graduate,Agriculturist,2033110,0,873,Excellent,0,609933.06,Toyota Etios
+46911,F,24,Yes,1,Graduate,Priv Sector,1015524,187374,551,Average,1,152328.67,Maruti Suzuki Alto
+80978,M,62,Yes,3,Not Graduate,Not-Employed,2229241,1043960,738,Good,0,222924.18,Hyundai i10
+92360,M,56,Yes,2,Not Graduate,Agriculturist,1856446,0,897,Excellent,1,185644.66,Tata Indigo
+83144,F,40,No,2,Graduate,Not-Employed,1894453,912386,630,Average,0,284167.96,Hyundai i10
+89393,M,23,Yes,2,Graduate,Software Engineer,2774397,2266989,699,Good,0,693599.39,Maruti Suzuki Desire
+71739,M,48,No,2,Not Graduate,Not-Employed,1583120,1033794,695,Good,0,237468.04,Toyota Etios
+57311,M,50,No,1,Not Graduate,Self-Employed,885036,552477,519,Poor,1,0.0,No Vehicle
+87350,M,56,Yes,2,Graduate,Agriculturist,2365934,0,866,Excellent,0,591483.7,Hyundai i10
+43659,M,28,No,0,Not Graduate,Self-Employed,892250,897697,722,Good,1,178450.03,Toyota Etios
+46815,M,36,Yes,1,Not Graduate,Self-Employed,938924,831786,500,Poor,0,0.0,No Vehicle
+17400,F,54,Yes,1,Not Graduate,Agriculturist,1462456,0,784,Excellent,1,146245.66,Tata Indigo
+72929,M,46,No,3,Graduate,Software Engineer,5625137,2381864,644,Average,0,562513.72,Hyundai i20
+41123,F,23,Yes,0,Graduate,Not-Employed,1967009,967321,543,Poor,1,0.0,No Vehicle
+24335,F,42,No,3,Graduate,Govt Sector,3507509,211626,833,Excellent,0,1052252.81,Hyundai i10
+31828,M,60,Yes,3,Not Graduate,Agriculturist,803128,0,787,Excellent,1,80312.81,Hyundai i10
+98566,F,21,No,0,Graduate,Govt Sector,680703,106524,805,Excellent,0,272281.58,Tata Indigo
+55590,M,48,No,1,Graduate,Govt Sector,3650805,180089,756,Excellent,0,1095241.54,Maruti Suzuki Swift
+22602,M,21,Yes,2,Graduate,Software Engineer,2779487,2677013,670,Good,0,694871.8,Maruti Suzuki Swift
+38553,F,58,Yes,3,Not Graduate,Self-Employed,804961,958857,613,Average,0,40248.09,Tata Indigo
+71099,M,43,No,2,Graduate,Priv Sector,1737852,203930,539,Poor,0,0.0,No Vehicle
+51350,F,34,No,1,Not Graduate,Not-Employed,2260324,1031083,566,Average,0,339048.66,Toyota Etios
+34809,M,60,Yes,2,Not Graduate,Agriculturist,1673098,0,753,Excellent,0,418274.72,Hyundai i10
+69566,M,54,Yes,0,Graduate,Software Engineer,5455805,2751978,594,Average,0,272790.28,Hyundai i10
+71077,M,46,No,0,Graduate,Govt Sector,3726327,196559,891,Excellent,0,1117898.12,Maruti Suzuki Swift
+27226,F,29,Yes,1,Graduate,Agriculturist,681746,0,766,Excellent,0,272698.61,Mahinddra Bolero
+51449,F,61,No,1,Graduate,Not-Employed,2100861,1106175,556,Average,1,21008.62,Tata Indigo
+77470,M,51,Yes,3,Not Graduate,Self-Employed,642320,985326,590,Average,1,6423.2,Maruti Suzuki Swift
+97727,M,27,No,3,Graduate,Not-Employed,1615376,962588,632,Average,1,242306.49,Hyundai i10
+63229,F,40,No,1,Graduate,Software Engineer,5698477,2739183,525,Poor,0,0.0,No Vehicle
+31297,M,32,Yes,0,Graduate,Agriculturist,1310380,0,879,Excellent,0,458633.13,Tata Indica
+53393,M,39,Yes,2,Not Graduate,Self-Employed,815049,535185,691,Good,0,163009.98,Tata Indigo
+88919,M,27,Yes,1,Not Graduate,Not-Employed,2004388,1057394,653,Good,1,400877.73,Toyota Etios
+54716,M,28,No,1,Not Graduate,Self-Employed,634505,1025411,511,Poor,1,0.0,No Vehicle
+30861,M,65,Yes,3,Graduate,Software Engineer,5537860,2844355,699,Good,0,553786.08,Maruti Suzuki Swift
+30019,M,42,No,0,Not Graduate,Not-Employed,2018385,962922,728,Good,1,201838.5,Toyota Etios
+39390,F,59,Yes,2,Graduate,Govt Sector,3469783,179506,869,Excellent,1,346978.33,Tata Indigo
+81469,M,51,Yes,0,Not Graduate,Self-Employed,857283,927978,643,Average,1,8572.84,Maruti Suzuki Swift
+16227,M,35,No,3,Graduate,Software Engineer,4766812,2443099,671,Good,0,953362.48,Renault Duster
+69530,M,28,Yes,0,Not Graduate,Self-Employed,1005170,1005525,717,Good,0,251292.64,Toyota Etios
+22444,M,20,Yes,2,Not Graduate,Agriculturist,2101866,0,803,Excellent,1,525466.74,Tata Indica
+49792,F,47,No,1,Graduate,Not-Employed,1472106,828203,542,Poor,1,0.0,No Vehicle
+52610,M,18,No,1,Graduate,Govt Sector,507073,119597,795,Excellent,0,202829.5,Maruti Suzuki Swift
+98478,M,41,Yes,0,Graduate,Not-Employed,1729040,954886,583,Average,0,172904.08,Tata Indigo
+17528,F,36,Yes,3,Not Graduate,Agriculturist,565822,0,833,Excellent,1,113164.42,Hyundai i10
+38591,F,58,No,1,Graduate,Priv Sector,2350125,175470,599,Average,0,117506.27,Maruti Suzuki Desire
+97027,F,21,Yes,3,Not Graduate,Self-Employed,811499,865414,633,Average,1,121724.9,Maruti Suzuki Desire
+62357,F,25,Yes,3,Graduate,Not-Employed,1906788,1014988,669,Good,0,476697.17,Tata Indigo
+98215,F,55,No,0,Graduate,Govt Sector,3469254,231600,896,Excellent,1,346925.45,Toyota Etios
+14175,F,26,Yes,2,Graduate,Govt Sector,531340,117241,797,Excellent,1,132835.22,Datsun Go
+35249,M,37,Yes,1,Not Graduate,Agriculturist,407489,0,889,Excellent,0,142621.47,Maruti Suzuki Desire
+45027,M,44,Yes,2,Not Graduate,Agriculturist,970630,0,847,Excellent,0,291189.08,Hyundai i10
+34900,F,21,Yes,2,Graduate,Govt Sector,641184,130425,843,Excellent,0,256473.86,Toyota Etios
+12690,M,31,Yes,1,Not Graduate,Not-Employed,1928387,949136,515,Poor,1,0.0,No Vehicle
+25361,M,63,Yes,2,Graduate,Govt Sector,3362544,192016,835,Excellent,0,840636.09,Tata Indigo
+56922,F,50,Yes,2,Not Graduate,Not-Employed,1695601,1137257,712,Good,0,254340.16,Tata Indigo
+24189,F,49,Yes,2,Graduate,Agriculturist,2103233,0,782,Excellent,1,315485.0,Maruti Suzuki Swift
+12783,F,45,Yes,1,Not Graduate,Agriculturist,1693673,0,799,Excellent,1,254051.07,Maruti Suzuki Desire
+90996,M,58,Yes,1,Not Graduate,Not-Employed,2283262,1058809,670,Good,0,228326.2,Maruti Suzuki Desire
+81993,M,63,Yes,3,Not Graduate,Self-Employed,718274,1037882,644,Average,1,7182.75,Toyota Etios
+17520,F,32,No,1,Graduate,Priv Sector,1549802,192420,519,Poor,1,0.0,No Vehicle
+31041,M,54,Yes,3,Not Graduate,Self-Employed,425959,876417,666,Good,0,42595.93,Tata Indigo
+12059,M,63,No,0,Not Graduate,Self-Employed,728155,1170863,590,Average,1,7281.56,Tata Indigo
+81494,F,41,No,2,Graduate,Software Engineer,5733004,2818686,646,Average,0,573300.5,Hyundai i10
+43895,M,37,No,3,Not Graduate,Not-Employed,2098128,983799,667,Good,1,314719.22,Tata Indigo
+11008,M,61,No,1,Graduate,Not-Employed,1660592,949388,662,Good,0,166059.21,Tata Indigo
+64572,F,63,Yes,1,Not Graduate,Not-Employed,2433769,846602,694,Good,0,243377.0,Toyota Etios
+37155,F,46,No,2,Not Graduate,Agriculturist,887887,0,780,Excellent,1,133183.16,Maruti Suzuki Swift
+19097,F,37,No,2,Not Graduate,Not-Employed,2314900,994848,581,Average,1,231490.04,Hyundai i10
+85738,M,54,Yes,0,Not Graduate,Agriculturist,2494491,0,763,Excellent,1,249449.16,Hyundai i10
+74043,M,32,No,0,Graduate,Agriculturist,1243442,0,861,Excellent,1,248688.54,Maruti Suzuki Eeco
+66716,F,60,Yes,0,Not Graduate,Not-Employed,2268048,921733,500,Poor,0,0.0,No Vehicle
+50409,F,44,Yes,2,Graduate,Not-Employed,1523836,1082879,691,Good,1,152383.7,Maruti Suzuki Desire
+90123,M,24,No,3,Graduate,Priv Sector,891350,42819,718,Good,1,178270.08,Datsun Go
+30311,M,62,Yes,1,Not Graduate,Self-Employed,1072064,934367,567,Average,1,10720.65,Maruti Suzuki Swift
+43022,M,61,Yes,0,Graduate,Agriculturist,1403420,0,798,Excellent,1,140342.05,Toyota Etios
+74858,M,64,No,1,Not Graduate,Self-Employed,907713,776912,533,Poor,0,0.0,No Vehicle
+24666,F,59,Yes,2,Not Graduate,Agriculturist,1509976,0,775,Excellent,1,150997.63,Maruti Suzuki Desire
+91052,F,42,No,2,Not Graduate,Self-Employed,657159,874585,749,Good,0,98573.86,Hyundai i10
+59829,M,25,No,2,Graduate,Govt Sector,389173,84155,776,Excellent,1,97293.39,Hyundai Santro
+60879,F,55,Yes,1,Graduate,Govt Sector,3622571,158015,877,Excellent,0,905642.9,Toyota Etios
+43988,F,43,Yes,2,Not Graduate,Not-Employed,1935916,1081435,721,Good,0,290387.53,Maruti Suzuki Desire
+26351,F,60,Yes,3,Graduate,Not-Employed,2085089,981486,733,Good,0,208508.97,Toyota Etios
+16183,F,58,No,2,Not Graduate,Self-Employed,796428,799748,705,Good,1,39821.44,Maruti Suzuki Desire
+36841,M,18,No,1,Graduate,Not-Employed,2048612,1005466,739,Good,0,512153.11,Maruti Suzuki Desire
+16913,M,21,No,3,Graduate,Software Engineer,2571568,2649719,667,Good,1,514313.66,Toyota Etios
+98733,F,37,No,2,Graduate,Govt Sector,3574708,211920,830,Excellent,0,1251148.02,Maruti Suzuki Swift
+67786,F,18,No,1,Not Graduate,Self-Employed,714845,931720,669,Good,1,142969.17,Tata Indigo
+58606,M,25,No,2,Not Graduate,Self-Employed,808251,881965,604,Average,0,161650.31,Maruti Suzuki Swift
+71446,F,26,Yes,1,Graduate,Software Engineer,2179181,2398819,608,Average,1,326877.28,Maruti Suzuki Swift
+83983,F,51,Yes,1,Graduate,Not-Employed,2216385,983369,638,Average,0,110819.27,Maruti Suzuki Swift
+79780,F,39,No,2,Graduate,Agriculturist,1497450,0,819,Excellent,0,524107.84,Maruti Suzuki Desire
+29310,F,29,Yes,1,Not Graduate,Agriculturist,2172749,0,880,Excellent,1,543187.34,Tata Indica
+19701,M,24,No,0,Not Graduate,Self-Employed,1260863,993523,671,Good,1,252172.66,Maruti Suzuki Swift
+99650,M,47,No,1,Not Graduate,Self-Employed,595421,1023430,561,Average,1,29771.08,Tata Indigo
+96903,F,43,Yes,0,Graduate,Priv Sector,2242518,194917,625,Average,1,112125.91,Tata Indigo
+10404,M,31,No,3,Graduate,Agriculturist,2151209,0,779,Excellent,1,430241.91,Mahinddra Bolero
+49446,F,39,No,0,Not Graduate,Not-Employed,1756161,983886,643,Average,0,263424.15,Maruti Suzuki Desire
+85153,F,38,Yes,3,Graduate,Agriculturist,1584374,0,797,Excellent,1,316874.8,Maruti Suzuki Swift
+87729,F,45,Yes,1,Not Graduate,Self-Employed,590517,926098,667,Good,1,59051.77,Tata Indigo
+60082,M,28,No,2,Not Graduate,Self-Employed,746683,1098280,554,Average,0,149336.71,Tata Indigo
+25622,M,55,No,0,Graduate,Software Engineer,5401097,2277432,746,Good,1,270054.85,Ford Ecosport
+34226,M,28,Yes,3,Not Graduate,Self-Employed,875557,1005514,611,Average,0,175111.57,Maruti Suzuki Swift
+69436,M,54,Yes,2,Graduate,Priv Sector,1778537,187077,716,Good,1,88926.86,Maruti Suzuki Swift
+81348,M,25,No,3,Not Graduate,Agriculturist,1474657,0,873,Excellent,0,589862.97,Maruti Suzuki Eeco
+99411,F,52,No,0,Not Graduate,Self-Employed,1026947,813158,670,Good,1,51347.36,Tata Indigo
+98817,F,40,No,3,Not Graduate,Not-Employed,1882560,1093481,632,Average,1,188256.03,Toyota Etios
+59898,F,59,Yes,2,Graduate,Software Engineer,5776096,2592381,628,Average,0,288804.83,Maruti Suzuki Desire
+29946,F,48,Yes,2,Not Graduate,Agriculturist,2017398,0,785,Excellent,1,302609.84,Hyundai i10
+79150,F,65,No,3,Graduate,Govt Sector,3271615,201469,826,Excellent,0,817903.82,Maruti Suzuki Desire
+69766,M,40,No,2,Not Graduate,Not-Employed,1959924,826843,721,Good,0,391984.94,Hyundai i10
+75147,F,33,Yes,1,Graduate,Software Engineer,4266858,2963582,585,Average,1,426685.9,Maruti Suzuki Desire
+33969,F,20,Yes,0,Not Graduate,Not-Employed,2090265,917120,518,Poor,1,0.0,No Vehicle
+46451,M,64,Yes,3,Not Graduate,Not-Employed,2128244,812798,542,Poor,1,0.0,No Vehicle
+71985,F,62,No,3,Graduate,Priv Sector,2064977,176628,548,Poor,1,0.0,No Vehicle
+25950,F,32,No,0,Not Graduate,Self-Employed,801863,771408,529,Poor,1,0.0,No Vehicle
+83006,F,32,No,1,Not Graduate,Agriculturist,1640582,0,789,Excellent,0,574203.96,Mahinddra Bolero
+17329,F,53,Yes,0,Not Graduate,Self-Employed,764208,998255,745,Good,1,38210.43,Toyota Etios
+95572,F,65,Yes,0,Not Graduate,Agriculturist,1430297,0,796,Excellent,0,357574.44,Maruti Suzuki Swift
+18519,M,23,Yes,2,Graduate,Not-Employed,2029597,1027997,679,Good,0,507399.31,Maruti Suzuki Swift
+27533,M,33,No,2,Not Graduate,Self-Employed,1013990,593126,516,Poor,0,0.0,No Vehicle
+78319,F,51,No,2,Graduate,Priv Sector,1666850,203268,596,Average,0,83342.55,Maruti Suzuki Swift
+60316,M,41,No,3,Not Graduate,Agriculturist,1381766,0,784,Excellent,1,207264.91,Toyota Etios
+68478,M,28,No,0,Not Graduate,Self-Employed,965420,584761,659,Good,1,193084.18,Hyundai i10
+19112,F,35,No,3,Graduate,Govt Sector,766695,194341,756,Excellent,0,268343.53,Tata Indigo
+44179,M,54,No,0,Not Graduate,Self-Employed,790121,1040346,662,Good,1,39506.07,Toyota Etios
+26146,M,37,No,0,Not Graduate,Agriculturist,1751869,0,800,Excellent,0,613154.3,Toyota Etios
+96040,F,41,Yes,3,Graduate,Priv Sector,1966936,198716,552,Average,1,98346.84,Maruti Suzuki Desire
+52326,M,65,No,3,Graduate,Agriculturist,1697435,0,836,Excellent,1,169743.58,Toyota Etios
+24051,F,58,No,0,Graduate,Software Engineer,5875434,2139608,567,Average,1,58754.35,Maruti Suzuki Swift
+88265,M,38,No,3,Not Graduate,Self-Employed,811699,869465,698,Good,0,162339.99,Tata Indigo
+94736,M,38,No,1,Graduate,Priv Sector,1765654,194312,558,Average,0,264848.22,Hyundai Verna
+68448,M,38,Yes,0,Graduate,Govt Sector,3348001,212951,780,Excellent,0,1171800.4,Maruti Suzuki Swift
+94460,M,65,Yes,1,Not Graduate,Agriculturist,1788601,0,867,Excellent,1,178860.14,Tata Indigo
+92345,M,31,No,2,Graduate,Not-Employed,2026662,1038727,737,Good,0,405332.5,Toyota Etios
+39535,M,21,Yes,1,Not Graduate,Not-Employed,1648546,1162590,528,Poor,0,0.0,No Vehicle
+19784,M,33,Yes,2,Graduate,Agriculturist,1684128,0,793,Excellent,0,589444.85,Tata Sumo
+17078,F,58,No,3,Graduate,Not-Employed,1894514,1157799,620,Average,1,18945.14,Tata Indigo
+63984,M,49,Yes,2,Not Graduate,Not-Employed,1880727,1017835,610,Average,1,94036.37,Tata Indigo
+99072,F,38,No,0,Graduate,Govt Sector,3508421,193210,773,Excellent,0,1227947.5,Tata Indigo
+48827,M,25,Yes,3,Not Graduate,Self-Employed,681736,780379,706,Good,0,170434.18,Hyundai i10
+41999,M,27,No,1,Graduate,Agriculturist,642911,0,795,Excellent,0,257164.48,Tata Indica
+21209,F,27,No,1,Graduate,Not-Employed,1680470,962142,580,Average,0,336094.01,Toyota Etios
+31165,F,55,No,2,Graduate,Priv Sector,1969430,206823,737,Good,1,98471.53,Hyundai i10
+51264,M,39,Yes,1,Graduate,Agriculturist,1173308,0,881,Excellent,1,234661.65,Hyundai i10
+42887,M,25,No,2,Graduate,Agriculturist,737863,0,837,Excellent,0,295145.38,Tata Indica
+62357,F,52,No,3,Not Graduate,Not-Employed,1945274,1041680,506,Poor,1,0.0,No Vehicle
+95626,F,50,Yes,2,Graduate,Not-Employed,1540916,947921,675,Good,0,231137.52,Tata Indigo
+12468,M,31,No,1,Graduate,Not-Employed,2101390,1070279,543,Poor,0,0.0,No Vehicle
+79856,M,40,Yes,2,Not Graduate,Self-Employed,1049513,789310,617,Average,1,104951.38,Hyundai i10
+48345,M,61,Yes,1,Graduate,Not-Employed,2108678,891815,718,Good,0,210867.86,Maruti Suzuki Desire
+12829,F,47,No,2,Not Graduate,Agriculturist,1668084,0,823,Excellent,0,500425.43,Maruti Suzuki Swift
+49553,M,24,Yes,1,Graduate,Agriculturist,944302,0,877,Excellent,0,377721.02,Mahinddra Bolero
+24210,M,64,Yes,1,Not Graduate,Not-Employed,1851240,978191,713,Good,0,185124.04,Maruti Suzuki Swift
+27537,M,27,No,3,Graduate,Priv Sector,1236162,456366,536,Poor,0,0.0,No Vehicle
+93572,M,58,Yes,3,Graduate,Not-Employed,1773798,1086407,740,Good,0,177379.86,Hyundai i10
+29861,M,28,Yes,0,Graduate,Priv Sector,1069637,490870,682,Good,1,213927.51,Tata Indigo
+26714,M,49,No,2,Not Graduate,Not-Employed,2333503,797629,606,Average,0,233350.38,Maruti Suzuki Desire
+62786,M,60,Yes,0,Graduate,Not-Employed,2271395,1021718,748,Good,0,227139.52,Tata Indigo
+76432,F,37,Yes,2,Graduate,Govt Sector,3293821,213500,829,Excellent,0,1152837.62,Maruti Suzuki Swift
+31529,M,22,No,1,Not Graduate,Agriculturist,2340144,0,808,Excellent,0,936057.86,Tata Sumo
+65627,F,41,No,0,Not Graduate,Agriculturist,2367655,0,791,Excellent,1,355148.33,Toyota Etios
+47352,M,56,Yes,0,Graduate,Priv Sector,1750449,210390,622,Average,0,87522.46,Maruti Suzuki Desire
+89714,F,19,No,0,Not Graduate,Not-Employed,1848241,964897,560,Average,0,369648.34,Tata Indigo
+15882,M,51,No,0,Graduate,Govt Sector,3427600,204012,815,Excellent,0,856900.1,Maruti Suzuki Swift
+61698,F,63,No,0,Not Graduate,Not-Employed,1986816,989784,545,Poor,1,0.0,No Vehicle
+27045,M,30,Yes,3,Not Graduate,Self-Employed,766008,1003584,513,Poor,1,0.0,No Vehicle
+28960,F,28,No,1,Not Graduate,Not-Employed,1870382,823976,650,Good,1,374076.42,Tata Indigo
+32241,F,35,No,1,Graduate,Govt Sector,1055891,210247,898,Excellent,0,369562.04,Toyota Etios
+58122,M,57,No,3,Not Graduate,Not-Employed,1869080,845434,613,Average,0,93454.04,Toyota Etios
+18358,F,31,No,2,Graduate,Software Engineer,4689137,2047937,582,Average,0,703370.68,Maruti Suzuki Swift
+24289,F,42,Yes,2,Not Graduate,Not-Employed,2276956,1194272,581,Average,1,113847.83,Hyundai i10
+43443,F,21,No,3,Graduate,Govt Sector,432150,93376,884,Excellent,0,172860.4,Hyundai Santro
+77687,M,42,No,3,Graduate,Priv Sector,2005764,229437,558,Average,1,100288.24,Maruti Suzuki Swift
+24555,F,61,No,1,Graduate,Priv Sector,1678878,234598,543,Poor,1,0.0,No Vehicle
+45750,M,31,Yes,0,Graduate,Priv Sector,1623393,229336,567,Average,0,243509.09,Tata Indigo
+68941,M,43,Yes,0,Graduate,Software Engineer,5379932,2554676,713,Good,0,806989.81,Toyota Innova
+41680,F,44,Yes,2,Graduate,Software Engineer,5668365,2301659,512,Poor,0,0.0,No Vehicle
+81036,F,39,No,1,Not Graduate,Agriculturist,1096203,0,781,Excellent,1,219240.79,Maruti Suzuki Swift
+72164,F,46,No,0,Graduate,Software Engineer,5703146,2813148,607,Average,0,570314.6,Hyundai i10
+20335,M,53,No,2,Not Graduate,Agriculturist,2438771,0,898,Excellent,0,609692.9,Maruti Suzuki Desire
+21286,M,59,Yes,1,Not Graduate,Not-Employed,2247063,899029,664,Good,1,112353.19,Maruti Suzuki Swift
+83338,F,30,No,1,Not Graduate,Agriculturist,1330432,0,884,Excellent,0,532172.86,Tata Sumo
+83106,M,25,Yes,0,Not Graduate,Agriculturist,583882,0,754,Excellent,0,233553.02,Tata Indica
+89267,M,19,Yes,3,Graduate,Priv Sector,1003746,526532,554,Average,0,200749.26,Maruti Suzuki Swift
+13344,F,64,Yes,0,Not Graduate,Agriculturist,1215917,0,755,Excellent,0,303979.26,Toyota Etios
+59774,M,31,No,0,Graduate,Agriculturist,1870770,0,844,Excellent,1,374154.06,Tata Indica
+84888,M,23,No,0,Graduate,Software Engineer,2545196,2966033,707,Good,1,509039.33,Tata Indigo
+77511,M,47,Yes,1,Graduate,Priv Sector,2108217,170448,546,Poor,0,0.0,No Vehicle
+35523,F,33,Yes,1,Not Graduate,Self-Employed,848248,743972,739,Good,0,169649.77,Maruti Suzuki Desire
+76164,F,56,Yes,0,Not Graduate,Agriculturist,1507183,0,855,Excellent,0,376795.9,Hyundai i10
+73260,M,22,Yes,3,Not Graduate,Not-Employed,2138932,901598,642,Average,1,320839.87,Maruti Suzuki Swift
+75315,M,54,Yes,3,Not Graduate,Agriculturist,1851246,0,899,Excellent,1,185124.62,Hyundai i10
+35973,M,32,Yes,1,Graduate,Not-Employed,1790496,990622,696,Good,1,268574.49,Maruti Suzuki Swift
+89677,M,48,No,1,Not Graduate,Agriculturist,1911111,0,839,Excellent,1,286666.75,Maruti Suzuki Swift
+80349,M,30,No,0,Graduate,Govt Sector,349557,120723,774,Excellent,0,139822.81,Maruti Suzuki Alto
+96977,M,29,No,2,Not Graduate,Not-Employed,2098248,1074128,698,Good,0,524562.01,Maruti Suzuki Swift
+26861,M,22,Yes,3,Graduate,Not-Employed,1695485,1211253,606,Average,0,339097.05,Maruti Suzuki Swift
+10087,M,58,No,2,Not Graduate,Not-Employed,1887763,1167838,682,Good,1,94388.16,Hyundai i10
+49211,M,23,Yes,3,Not Graduate,Self-Employed,721100,878118,558,Average,0,144220.16,Maruti Suzuki Swift
+51741,M,45,Yes,2,Not Graduate,Self-Employed,929054,903486,533,Poor,1,0.0,No Vehicle
+19214,M,58,Yes,1,Not Graduate,Self-Employed,981822,817513,698,Good,0,98182.22,Maruti Suzuki Desire
+30545,M,43,Yes,0,Graduate,Software Engineer,5102104,2421414,511,Poor,1,0.0,No Vehicle
+21960,F,29,Yes,3,Graduate,Not-Employed,1942654,710427,512,Poor,0,0.0,No Vehicle
+82133,M,43,Yes,1,Not Graduate,Self-Employed,769462,741906,604,Average,1,38473.11,Maruti Suzuki Swift
+22277,M,20,No,1,Graduate,Software Engineer,2344285,2415349,594,Average,0,468857.03,Tata Indigo
+37949,F,33,Yes,1,Graduate,Agriculturist,1961792,0,830,Excellent,0,686627.43,Tata Sumo
+47026,M,33,No,3,Not Graduate,Not-Employed,2241980,1027460,561,Average,1,224198.05,Tata Indigo
+54761,F,54,No,3,Not Graduate,Self-Employed,858694,1017267,602,Average,1,8586.94,Toyota Etios
+14976,M,51,Yes,1,Graduate,Not-Employed,1780633,1010019,688,Good,1,89031.66,Tata Indigo
+28441,M,33,No,3,Not Graduate,Agriculturist,978539,0,869,Excellent,0,342488.98,Maruti Suzuki Eeco
+60716,M,50,Yes,2,Not Graduate,Self-Employed,744834,842722,527,Poor,1,0.0,No Vehicle
+71028,M,20,No,1,Not Graduate,Self-Employed,636940,1008447,504,Poor,0,0.0,No Vehicle
+92675,F,31,Yes,3,Not Graduate,Self-Employed,996866,735941,632,Average,0,149529.94,Tata Indigo
+82447,M,49,Yes,0,Graduate,Agriculturist,1636097,0,750,Excellent,1,245414.56,Maruti Suzuki Desire
+44384,F,65,Yes,1,Graduate,Govt Sector,3247141,188502,753,Excellent,1,324714.2,Tata Indigo
+41022,M,30,No,0,Not Graduate,Agriculturist,888511,0,851,Excellent,0,355404.62,Maruti Suzuki Eeco
+12419,F,57,No,1,Graduate,Software Engineer,5207895,2921888,625,Average,1,52078.96,Maruti Suzuki Desire
+44965,F,39,Yes,2,Graduate,Not-Employed,1859186,837266,632,Average,1,185918.64,Hyundai i10
+77070,M,60,No,3,Graduate,Not-Employed,2212097,1084851,724,Good,0,221209.78,Tata Indigo
+70181,F,51,Yes,1,Not Graduate,Self-Employed,865559,948242,641,Average,1,8655.59,Hyundai i10
+20900,M,51,Yes,3,Graduate,Not-Employed,1965529,1016669,564,Average,1,19655.3,Toyota Etios
+21802,F,25,Yes,1,Graduate,Not-Employed,1644338,1032837,556,Average,0,328867.72,Maruti Suzuki Desire
+65606,M,35,Yes,2,Graduate,Not-Employed,2501892,1120639,650,Good,1,375283.83,Maruti Suzuki Desire
+58905,F,30,No,1,Graduate,Priv Sector,1168478,371565,665,Good,0,292119.54,Maruti Suzuki Swift
+29870,F,61,No,2,Graduate,Agriculturist,1980789,0,888,Excellent,0,495197.5,Maruti Suzuki Swift
+59803,F,33,No,1,Not Graduate,Not-Employed,1893495,1161965,613,Average,0,284024.39,Maruti Suzuki Swift
+68464,M,65,Yes,0,Graduate,Govt Sector,3422643,212840,801,Excellent,1,342264.37,Maruti Suzuki Desire
+92146,F,58,No,1,Not Graduate,Agriculturist,724653,0,896,Excellent,1,72465.33,Tata Indigo
+69029,F,35,Yes,1,Graduate,Not-Employed,2071028,927512,718,Good,1,310654.3,Hyundai i10
+62209,M,24,Yes,0,Graduate,Priv Sector,957755,462969,654,Good,0,239438.94,Maruti Suzuki Desire
+71235,F,61,Yes,2,Graduate,Software Engineer,5285706,2447407,689,Good,1,264285.32,Honda Amaze
+36153,M,60,Yes,1,Graduate,Not-Employed,1947754,960398,687,Good,0,194775.47,Hyundai i10
+60950,M,39,No,2,Graduate,Govt Sector,3505911,177541,808,Excellent,0,1227069.04,Tata Indigo
+54445,M,44,Yes,1,Graduate,Software Engineer,5735605,2655057,581,Average,1,286780.26,Maruti Suzuki Swift
+31131,M,19,Yes,1,Not Graduate,Agriculturist,1384509,0,810,Excellent,0,553803.99,Mahinddra Bolero
+71370,M,55,No,0,Not Graduate,Agriculturist,856305,0,803,Excellent,0,214076.37,Tata Indigo
+22665,F,59,Yes,1,Not Graduate,Not-Employed,1327623,841778,699,Good,1,66381.17,Maruti Suzuki Swift
+57182,F,18,No,2,Graduate,Agriculturist,1152023,0,810,Excellent,0,460809.54,Tata Sumo
+37944,F,44,No,2,Not Graduate,Self-Employed,934324,993366,593,Average,1,46716.23,Toyota Etios
+64588,M,42,Yes,3,Not Graduate,Self-Employed,896651,866913,543,Poor,1,0.0,No Vehicle
+47433,M,53,Yes,3,Graduate,Agriculturist,1116744,0,821,Excellent,0,279186.09,Maruti Suzuki Desire
+53757,M,36,Yes,1,Not Graduate,Self-Employed,775321,1042286,556,Average,0,116298.28,Maruti Suzuki Swift
+26001,F,51,No,0,Not Graduate,Agriculturist,1207614,0,781,Excellent,0,301903.66,Maruti Suzuki Desire
+68783,M,62,No,0,Not Graduate,Not-Employed,2425573,920227,587,Average,0,121278.69,Toyota Etios
+11839,M,43,Yes,2,Not Graduate,Not-Employed,2414060,976069,578,Average,0,241406.06,Toyota Etios
+22863,F,50,Yes,0,Graduate,Agriculturist,2013769,0,801,Excellent,0,604130.99,Tata Indigo
+98368,F,62,No,0,Graduate,Not-Employed,2361937,992011,707,Good,0,236193.7,Hyundai i10
+18792,M,50,Yes,1,Not Graduate,Agriculturist,1616912,0,890,Excellent,0,485073.67,Tata Indigo
+29169,M,26,Yes,1,Not Graduate,Self-Employed,1026752,937132,587,Average,1,154012.85,Maruti Suzuki Swift
+99508,F,33,No,1,Graduate,Priv Sector,1595437,212387,609,Average,1,159543.8,Maruti Suzuki Alto
+92532,M,46,Yes,1,Not Graduate,Not-Employed,1994324,965648,534,Poor,1,0.0,No Vehicle
+44271,M,35,No,3,Not Graduate,Self-Employed,966355,723881,562,Average,1,96635.54,Maruti Suzuki Desire
+56289,M,36,Yes,0,Graduate,Govt Sector,3261250,236325,796,Excellent,0,1141437.57,Tata Indigo
+94546,F,46,Yes,0,Not Graduate,Self-Employed,999419,1081964,710,Good,1,99941.98,Tata Indigo
+46746,M,36,No,2,Graduate,Priv Sector,2295791,218718,564,Average,1,229579.13,Hyundai Verna
+63206,F,65,No,3,Not Graduate,Agriculturist,1460313,0,866,Excellent,0,365078.29,Hyundai i10
+74060,M,54,Yes,1,Graduate,Agriculturist,1379614,0,896,Excellent,1,137961.43,Hyundai i10
+17499,F,26,No,1,Graduate,Govt Sector,415616,100671,865,Excellent,1,103904.16,Hyundai Santro
+61879,M,19,No,2,Not Graduate,Not-Employed,1940147,1117240,662,Good,1,388029.42,Toyota Etios
+30936,M,20,No,0,Not Graduate,Agriculturist,1201215,0,900,Excellent,0,480486.02,Mahinddra Bolero
+53391,M,56,Yes,2,Graduate,Priv Sector,1827052,204814,740,Good,1,91352.65,Tata Indigo
+44334,F,53,Yes,0,Not Graduate,Agriculturist,754913,0,827,Excellent,0,188728.28,Toyota Etios
+83938,M,46,No,3,Graduate,Not-Employed,2123392,960485,611,Average,0,212339.27,Maruti Suzuki Swift
+67277,M,48,Yes,0,Graduate,Agriculturist,1923004,0,865,Excellent,1,288450.66,Maruti Suzuki Swift
+72775,M,65,No,3,Not Graduate,Agriculturist,378895,0,791,Excellent,0,94723.93,Maruti Suzuki Desire
+75720,M,24,No,2,Graduate,Not-Employed,2248073,1072499,604,Average,1,337211.03,Toyota Etios
+65215,M,28,No,1,Graduate,Not-Employed,1525642,1036990,662,Good,1,305128.49,Toyota Etios
+68517,F,25,Yes,1,Graduate,Agriculturist,1710854,0,824,Excellent,0,684341.77,Tata Indica
+64729,F,65,Yes,0,Graduate,Agriculturist,2253427,0,771,Excellent,0,563356.97,Hyundai i10
+62316,M,48,Yes,1,Not Graduate,Self-Employed,901725,807463,707,Good,1,90172.55,Toyota Etios
+88057,M,56,No,3,Graduate,Software Engineer,5354620,2059287,699,Good,0,535462.02,Toyota Etios
+19617,M,61,No,3,Not Graduate,Agriculturist,422593,0,814,Excellent,1,42259.38,Tata Indigo
+64496,M,52,Yes,2,Graduate,Priv Sector,2129760,221394,561,Average,0,106488.02,Hyundai i10
+93716,M,32,No,0,Not Graduate,Agriculturist,1775277,0,787,Excellent,0,621347.23,Tata Sumo
+78911,F,53,Yes,1,Not Graduate,Not-Employed,2087955,1059049,519,Poor,1,0.0,No Vehicle
+24157,F,27,No,1,Graduate,Govt Sector,360942,57060,756,Excellent,1,90235.7,Maruti Suzuki Alto
+16319,M,43,Yes,2,Graduate,Not-Employed,2352881,1083854,550,Average,1,117644.06,Tata Indigo
+47406,F,18,Yes,2,Not Graduate,Self-Employed,794277,1043338,610,Average,0,158855.55,Toyota Etios
+88860,F,58,No,0,Not Graduate,Not-Employed,2000676,986613,741,Good,0,200067.68,Maruti Suzuki Desire
+89401,F,60,Yes,0,Not Graduate,Self-Employed,583099,927826,733,Good,0,58309.94,Maruti Suzuki Desire
+68115,F,30,No,2,Not Graduate,Agriculturist,1292548,0,808,Excellent,0,517019.32,Maruti Suzuki Eeco
+64343,M,30,Yes,2,Graduate,Govt Sector,596732,97274,783,Excellent,1,149183.08,Hyundai Santro
+26901,F,56,Yes,3,Graduate,Agriculturist,2180071,0,753,Excellent,0,545017.78,Toyota Etios
+37840,M,62,No,2,Not Graduate,Not-Employed,1623154,909319,502,Poor,0,0.0,No Vehicle
+37068,M,41,No,2,Not Graduate,Self-Employed,925836,693919,584,Average,1,46291.8,Tata Indigo
+64988,F,62,No,1,Not Graduate,Self-Employed,1145869,770522,665,Good,0,114586.98,Hyundai i10
+20349,F,40,No,2,Graduate,Govt Sector,3632752,155295,831,Excellent,1,726550.43,Tata Indigo
+46804,F,21,No,1,Graduate,Software Engineer,2341982,2804845,533,Poor,0,0.0,No Vehicle
+51632,F,34,Yes,3,Graduate,Software Engineer,4747969,1973000,501,Poor,0,0.0,No Vehicle
+50690,F,19,No,3,Not Graduate,Not-Employed,1918302,1075589,661,Good,0,479575.7,Hyundai i10
+21224,F,62,No,2,Graduate,Not-Employed,2205283,867053,600,Average,0,110264.17,Maruti Suzuki Swift
+88560,M,38,No,0,Graduate,Agriculturist,1405906,0,842,Excellent,1,281181.39,Tata Indigo
+61915,F,40,No,2,Graduate,Agriculturist,1960617,0,795,Excellent,0,686216.3,Maruti Suzuki Desire
+90864,M,50,No,1,Not Graduate,Not-Employed,1856282,822924,548,Poor,1,0.0,No Vehicle
+31128,F,59,No,2,Not Graduate,Not-Employed,2268999,995859,745,Good,0,226899.96,Hyundai i10
+25222,M,43,Yes,0,Not Graduate,Self-Employed,964774,709384,591,Average,1,48238.71,Maruti Suzuki Desire
+92913,M,29,Yes,1,Not Graduate,Not-Employed,1823262,1005370,668,Good,1,364652.46,Maruti Suzuki Swift
+61844,M,51,No,1,Graduate,Govt Sector,3932594,200960,839,Excellent,1,393259.46,Toyota Etios
+46156,F,29,No,3,Not Graduate,Self-Employed,762135,1012343,594,Average,1,114320.31,Tata Indigo
+13397,M,24,No,1,Not Graduate,Agriculturist,1630108,0,834,Excellent,1,407527.02,Mahinddra Bolero
+31920,M,58,No,3,Not Graduate,Self-Employed,821065,746901,528,Poor,0,0.0,No Vehicle
+88590,M,65,No,0,Graduate,Agriculturist,1855425,0,758,Excellent,1,185542.58,Maruti Suzuki Swift
+96489,F,42,No,2,Not Graduate,Self-Employed,744171,916288,579,Average,0,74417.16,Tata Indigo
+24276,M,55,No,2,Graduate,Agriculturist,1438374,0,785,Excellent,0,359593.64,Hyundai i10
+89202,M,33,No,3,Not Graduate,Agriculturist,231260,0,759,Excellent,0,80941.1,Tata Indica
+10621,F,35,No,3,Not Graduate,Not-Employed,1916328,894380,545,Poor,1,0.0,No Vehicle
+64732,F,64,Yes,2,Not Graduate,Agriculturist,2575378,0,821,Excellent,0,643844.66,Hyundai i10
+63265,M,19,No,3,Graduate,Govt Sector,640758,127091,874,Excellent,1,160189.54,Hyundai Santro
+20900,F,49,Yes,3,Graduate,Not-Employed,2253872,1187520,599,Average,1,112693.65,Maruti Suzuki Swift
+85446,M,39,No,2,Not Graduate,Agriculturist,1120278,0,783,Excellent,0,392097.36,Maruti Suzuki Desire
+93983,M,65,Yes,3,Graduate,Not-Employed,1774853,1054146,624,Average,1,17748.54,Hyundai i10
+98432,M,33,No,0,Not Graduate,Self-Employed,853195,993094,531,Poor,0,0.0,No Vehicle
+12265,M,33,Yes,0,Not Graduate,Not-Employed,2000312,871859,692,Good,0,400062.41,Tata Indigo
+41435,F,25,No,3,Graduate,Priv Sector,1182445,287284,681,Good,1,236489.14,Maruti Suzuki Desire
+19540,M,23,No,1,Not Graduate,Agriculturist,1321316,0,857,Excellent,0,528526.76,Mahinddra Bolero
+19997,M,40,No,3,Graduate,Software Engineer,5214739,2596019,673,Good,1,782210.96,Hyundai Verna
+23319,F,40,No,3,Graduate,Govt Sector,3548688,207943,827,Excellent,1,709737.78,Hyundai i10
+60056,M,32,No,1,Not Graduate,Agriculturist,646573,0,855,Excellent,1,129314.74,Maruti Suzuki Eeco
+60239,F,60,No,0,Graduate,Govt Sector,3709447,193533,801,Excellent,0,927361.82,Toyota Etios
+46731,F,38,Yes,0,Graduate,Priv Sector,2086149,181092,596,Average,0,312922.47,Maruti Suzuki Swift
+85419,M,58,No,3,Not Graduate,Not-Employed,1745260,1143427,581,Average,1,17452.61,Maruti Suzuki Desire
+85591,M,30,No,2,Graduate,Priv Sector,1553178,180736,588,Average,0,310635.64,Maruti Suzuki Desire
+98645,F,54,Yes,0,Not Graduate,Agriculturist,1620169,0,786,Excellent,0,405042.35,Maruti Suzuki Desire
+75029,F,48,No,2,Graduate,Priv Sector,1781147,211978,662,Good,1,178114.72,Hyundai i10
+99952,F,53,No,0,Not Graduate,Agriculturist,2041424,0,862,Excellent,0,510356.04,Maruti Suzuki Desire
+46869,F,43,Yes,2,Not Graduate,Agriculturist,2299013,0,791,Excellent,1,344851.96,Tata Indigo
+62787,M,57,Yes,2,Graduate,Not-Employed,1833153,1046596,703,Good,0,183315.34,Toyota Etios
+83613,F,40,Yes,2,Graduate,Agriculturist,1567246,0,865,Excellent,1,313449.23,Hyundai i10
+33111,F,31,No,1,Not Graduate,Agriculturist,1683190,0,774,Excellent,1,336638.13,Maruti Suzuki Eeco
+71966,M,46,Yes,2,Graduate,Agriculturist,715981,0,806,Excellent,0,214794.57,Maruti Suzuki Swift
+61716,F,29,Yes,3,Graduate,Agriculturist,1470300,0,848,Excellent,1,367575.2,Mahinddra Bolero
+54144,M,47,No,3,Not Graduate,Agriculturist,1461882,0,839,Excellent,1,219282.3,Tata Indigo
+15828,M,22,Yes,1,Not Graduate,Agriculturist,831253,0,888,Excellent,0,332501.59,Tata Indica
+87992,M,23,No,1,Graduate,Software Engineer,2804622,2463832,506,Poor,0,0.0,No Vehicle
+34210,F,48,Yes,0,Not Graduate,Not-Employed,2063273,1109505,559,Average,1,103163.65,Toyota Etios
+46443,M,62,No,0,Not Graduate,Self-Employed,870445,1012615,627,Average,1,8704.45,Maruti Suzuki Desire
+17595,F,39,No,0,Not Graduate,Agriculturist,2321101,0,873,Excellent,1,464220.34,Tata Indigo
+39537,M,61,No,1,Not Graduate,Agriculturist,1701674,0,872,Excellent,0,425418.66,Tata Indigo
+76314,F,52,No,1,Graduate,Agriculturist,1453228,0,778,Excellent,1,145322.89,Toyota Etios
+96430,F,44,Yes,0,Graduate,Govt Sector,3198679,196677,840,Excellent,1,479801.95,Honda City
+44973,F,65,Yes,1,Not Graduate,Not-Employed,2035000,1150531,566,Average,0,101750.05,Hyundai i10
+33757,F,41,Yes,0,Not Graduate,Not-Employed,1942356,964624,611,Average,0,194235.65,Tata Indigo
+99684,M,65,No,3,Graduate,Agriculturist,1458040,0,832,Excellent,1,145804.05,Hyundai i10
+26716,M,54,Yes,0,Not Graduate,Self-Employed,814836,760586,654,Good,0,81483.63,Maruti Suzuki Swift
+84199,M,58,Yes,0,Graduate,Software Engineer,5458945,2120044,669,Good,1,272947.3,Hyundai i20
+74586,M,53,No,0,Graduate,Agriculturist,1394172,0,774,Excellent,1,139417.27,Hyundai i10
+34427,M,33,No,1,Not Graduate,Not-Employed,2159398,852164,721,Good,0,431879.75,Maruti Suzuki Swift
+50721,M,34,No,2,Graduate,Agriculturist,1622562,0,809,Excellent,1,324512.48,Mahinddra Bolero
+35901,M,47,Yes,0,Graduate,Agriculturist,2042699,0,814,Excellent,1,306404.92,Tata Indigo
+33933,F,55,Yes,0,Graduate,Govt Sector,3716659,198690,750,Excellent,0,929164.94,Hyundai i10
+38233,F,63,No,0,Graduate,Priv Sector,1881840,197740,675,Good,0,188184.03,Tata Indigo
+17129,F,19,No,3,Graduate,Not-Employed,2097780,839371,734,Good,0,524445.12,Toyota Etios
+29672,F,38,Yes,2,Graduate,Agriculturist,1291422,0,800,Excellent,0,451998.03,Maruti Suzuki Desire
+80512,F,34,No,3,Graduate,Priv Sector,1670614,169668,691,Good,0,334123.0,Maruti Suzuki Desire
+53043,M,53,No,0,Graduate,Priv Sector,1695914,210361,556,Average,1,16959.14,Tata Indigo
+34861,M,24,Yes,3,Not Graduate,Self-Employed,1046299,1095255,546,Poor,1,0.0,No Vehicle
+52681,M,26,No,2,Graduate,Software Engineer,2301738,2630328,507,Poor,0,0.0,No Vehicle
+87751,F,46,Yes,0,Not Graduate,Agriculturist,1868148,0,880,Excellent,0,560444.64,Hyundai i10
+14188,M,41,No,0,Graduate,Agriculturist,1329751,0,850,Excellent,1,199462.78,Hyundai i10
+58993,M,60,No,3,Not Graduate,Self-Employed,828939,790957,722,Good,0,82893.94,Maruti Suzuki Desire
+43944,F,56,Yes,1,Graduate,Not-Employed,1944302,988229,708,Good,1,97215.1,Maruti Suzuki Desire
+62815,F,27,No,2,Graduate,Not-Employed,1790017,890510,551,Average,1,268502.62,Maruti Suzuki Desire
+10730,M,19,No,0,Not Graduate,Not-Employed,2003812,1075441,616,Average,0,400762.59,Hyundai i10
+18321,M,30,Yes,1,Graduate,Not-Employed,1669072,927507,599,Average,0,333814.41,Hyundai i10
+26309,F,32,Yes,3,Graduate,Agriculturist,1626902,0,882,Excellent,0,569415.98,Tata Sumo
+37270,M,55,Yes,1,Not Graduate,Agriculturist,1601062,0,858,Excellent,0,400265.6,Maruti Suzuki Swift
+39479,F,53,No,1,Graduate,Not-Employed,2116845,839302,724,Good,1,105842.28,Hyundai i10
+63661,M,22,Yes,0,Graduate,Priv Sector,773979,-112719,564,Average,0,154795.82,Hyundai i10
+66586,M,56,No,2,Graduate,Not-Employed,1795508,830898,730,Good,1,89775.42,Maruti Suzuki Swift
+10294,F,44,No,3,Graduate,Priv Sector,2199571,218838,596,Average,1,109978.6,Hyundai i10
+14271,F,32,Yes,0,Not Graduate,Self-Employed,1025153,1025460,540,Poor,1,0.0,No Vehicle
+10814,F,24,Yes,1,Graduate,Not-Employed,1682979,1074923,563,Average,1,252447.0,Maruti Suzuki Swift
+38356,M,35,Yes,3,Not Graduate,Not-Employed,1911669,1090993,712,Good,1,286750.41,Tata Indigo
+30376,M,56,Yes,2,Graduate,Agriculturist,1432983,0,770,Excellent,0,358245.92,Toyota Etios
+79472,F,47,No,0,Not Graduate,Agriculturist,1728219,0,823,Excellent,1,259232.9,Toyota Etios
+29275,M,45,No,2,Not Graduate,Not-Employed,1915526,987445,553,Average,1,95776.31,Toyota Etios
+43464,M,29,No,1,Not Graduate,Not-Employed,2284110,904404,707,Good,1,456822.11,Hyundai i10
+15066,F,30,Yes,1,Graduate,Software Engineer,2576508,3100013,681,Good,1,515301.66,Maruti Suzuki Desire
+43386,M,61,No,2,Not Graduate,Not-Employed,1827115,1036546,721,Good,0,182711.54,Tata Indigo
+84039,M,37,No,2,Not Graduate,Self-Employed,873012,721414,588,Average,0,130951.93,Maruti Suzuki Desire
+46112,F,43,Yes,2,Graduate,Priv Sector,2124900,216750,584,Average,1,106245.0,Hyundai i10
+14817,M,29,No,2,Graduate,Priv Sector,447528,547003,680,Good,1,89505.6,Hyundai i10
+67951,M,42,No,3,Graduate,Software Engineer,5314500,2856507,627,Average,0,531450.08,Toyota Etios
+53737,M,26,No,0,Not Graduate,Not-Employed,2054403,1055337,732,Good,1,410880.65,Hyundai i10
+50301,M,38,No,2,Graduate,Not-Employed,2081363,972466,634,Average,1,208136.36,Maruti Suzuki Swift
+93601,M,54,No,2,Graduate,Agriculturist,1359864,0,828,Excellent,1,135986.41,Tata Indigo
+19377,F,43,No,0,Not Graduate,Self-Employed,739997,835444,578,Average,1,36999.9,Tata Indigo
+93274,F,30,No,2,Not Graduate,Self-Employed,723996,863034,729,Good,0,180999.06,Toyota Etios
+12474,M,46,Yes,3,Not Graduate,Agriculturist,1265481,0,779,Excellent,0,379644.59,Maruti Suzuki Desire
+48459,M,37,No,2,Graduate,Software Engineer,5520972,2539973,555,Average,1,552097.25,Hyundai i10
+61620,F,52,Yes,1,Not Graduate,Agriculturist,1703919,0,828,Excellent,0,425980.0,Maruti Suzuki Swift
+54444,F,48,Yes,3,Not Graduate,Agriculturist,1544734,0,885,Excellent,1,231710.14,Hyundai i10
+71707,M,44,No,3,Graduate,Priv Sector,1934802,197670,684,Good,1,193480.24,Toyota Etios
+29494,F,62,No,3,Not Graduate,Agriculturist,1680521,0,806,Excellent,0,420130.48,Maruti Suzuki Desire
+97185,F,53,Yes,3,Not Graduate,Agriculturist,845317,0,884,Excellent,0,211329.32,Maruti Suzuki Swift
+50611,F,65,No,0,Not Graduate,Self-Employed,877785,771228,616,Average,0,43889.28,Maruti Suzuki Desire
+38571,M,40,Yes,1,Graduate,Not-Employed,1680693,963658,539,Poor,1,0.0,No Vehicle
+11198,M,58,Yes,0,Not Graduate,Self-Employed,926578,681818,710,Good,0,92657.88,Hyundai i10
+66181,F,28,No,2,Not Graduate,Not-Employed,2103508,1082289,632,Average,1,315526.3,Tata Indigo
+22042,F,23,Yes,1,Not Graduate,Agriculturist,2370553,0,801,Excellent,1,592638.34,Tata Sumo
+72440,M,33,No,1,Graduate,Not-Employed,1869904,933660,508,Poor,0,0.0,No Vehicle
+70118,M,46,No,1,Graduate,Not-Employed,2066058,921618,716,Good,1,206605.87,Hyundai i10
+22640,F,19,Yes,2,Not Graduate,Not-Employed,2170625,812598,614,Average,1,325593.87,Toyota Etios
+54185,F,62,No,2,Graduate,Agriculturist,915498,0,851,Excellent,1,91549.8,Hyundai i10
+66926,F,28,Yes,0,Graduate,Priv Sector,546131,254348,580,Average,0,109226.3,Hyundai i10
+85876,F,56,No,2,Not Graduate,Self-Employed,1113725,804628,566,Average,0,55686.28,Tata Indigo
+64796,M,52,No,3,Not Graduate,Not-Employed,2118142,875370,720,Good,1,105907.12,Tata Indigo
+14222,M,51,No,2,Not Graduate,Not-Employed,2157355,962312,642,Average,0,107867.79,Hyundai i10
+60816,M,24,No,3,Graduate,Agriculturist,1776134,0,884,Excellent,0,710453.63,Mahinddra Bolero
+47970,M,25,Yes,1,Not Graduate,Self-Employed,810783,931998,664,Good,0,202695.92,Maruti Suzuki Desire
+33913,F,27,Yes,2,Not Graduate,Self-Employed,1012831,638062,618,Average,0,202566.38,Maruti Suzuki Desire
+63703,M,42,No,0,Not Graduate,Agriculturist,2229027,0,771,Excellent,1,334354.17,Toyota Etios
+25955,M,22,Yes,2,Not Graduate,Not-Employed,2091757,1096086,666,Good,0,522939.45,Tata Indigo
+51576,M,46,No,2,Not Graduate,Self-Employed,716335,854715,631,Average,0,71633.52,Hyundai i10
+34408,F,20,Yes,1,Not Graduate,Not-Employed,1933402,824911,709,Good,0,483350.56,Toyota Etios
+53497,M,58,No,2,Graduate,Software Engineer,5207504,2588432,635,Average,1,52075.05,Hyundai i10
+18455,M,45,Yes,2,Not Graduate,Self-Employed,863071,776952,568,Average,1,43153.55,Toyota Etios
+57584,F,22,No,3,Not Graduate,Agriculturist,849126,0,783,Excellent,0,339650.44,Maruti Suzuki Eeco
+33495,F,28,Yes,0,Not Graduate,Agriculturist,1482988,0,815,Excellent,1,370747.22,Mahinddra Bolero
+51757,F,39,Yes,2,Not Graduate,Self-Employed,652292,949242,612,Average,1,65229.3,Tata Indigo
+65234,F,23,Yes,2,Not Graduate,Agriculturist,1966858,0,812,Excellent,0,786743.57,Maruti Suzuki Eeco
+34969,M,56,Yes,3,Graduate,Agriculturist,1557153,0,777,Excellent,0,389288.3,Maruti Suzuki Swift
+87710,F,51,Yes,2,Not Graduate,Agriculturist,2233180,0,824,Excellent,1,223318.05,Hyundai i10
+56843,M,51,No,3,Graduate,Priv Sector,2000113,192511,660,Good,0,200011.33,Toyota Etios
+23806,M,34,No,1,Graduate,Priv Sector,1562774,219491,701,Good,1,234416.12,Tata Indigo
+64610,F,53,No,3,Graduate,Priv Sector,2005676,220688,653,Good,1,100283.82,Toyota Etios
+18477,F,51,No,0,Graduate,Govt Sector,3339904,210600,767,Excellent,1,333990.4,Maruti Suzuki Desire
+15650,M,58,Yes,1,Not Graduate,Self-Employed,666743,722940,710,Good,1,33337.17,Maruti Suzuki Desire
+61846,M,53,Yes,1,Graduate,Not-Employed,1984222,829513,629,Average,0,99211.14,Maruti Suzuki Desire
+74195,F,54,Yes,2,Not Graduate,Self-Employed,993500,961650,556,Average,0,49675.04,Maruti Suzuki Swift
+57989,M,39,Yes,0,Graduate,Software Engineer,5231685,2558330,585,Average,1,523168.57,Hyundai i20
+11629,M,26,No,3,Not Graduate,Self-Employed,677253,684633,731,Good,1,135450.74,Hyundai i10
+89173,M,22,Yes,1,Graduate,Agriculturist,1067318,0,751,Excellent,0,426927.22,Tata Indica
+70856,M,61,Yes,0,Not Graduate,Not-Employed,1881392,941160,538,Poor,0,0.0,No Vehicle
+74688,M,30,No,0,Not Graduate,Agriculturist,1799191,0,789,Excellent,0,719676.46,Tata Indica
+66804,M,40,No,1,Not Graduate,Not-Employed,1717522,896680,648,Average,1,171752.26,Tata Indigo
+41138,F,48,No,3,Graduate,Not-Employed,1980231,790447,656,Good,0,297034.74,Maruti Suzuki Desire
+92291,F,59,Yes,3,Not Graduate,Agriculturist,2071673,0,762,Excellent,0,517918.44,Tata Indigo
+73340,F,18,Yes,3,Not Graduate,Not-Employed,1498143,1255224,540,Poor,1,0.0,No Vehicle
+65542,M,24,No,3,Not Graduate,Self-Employed,811224,863150,551,Average,1,121683.66,Tata Indigo
+72052,F,34,No,0,Not Graduate,Not-Employed,1751083,967910,558,Average,0,262662.54,Hyundai i10
