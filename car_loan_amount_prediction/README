@@ -1,0 +1,12 @@
+Customer loan amount prediction:
+
+Features: Gender, Age, Married, No_Of_Dependents, Edu_Qualification, Employment_Status, Applicant_Annual_Income, Co_Applicant_Annual_Income, Applicant_Credit_History, Credit_Rating, Existing_No_of_Loans
+Label: Loan_Amount_Availed
+We have normalized and encoded the categorical data.
+Polynomial regression model
+Based on the features and labelled we tarin, polynomial regression model with degree of 2. 
+Multiple regression model
+Based on the features and labelled we tarin, multiple regression model.
+Support vector regression model
+Based on the features and labelled we tarin, support vector regression model.
+
